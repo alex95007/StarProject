@@ -1007,4 +1007,1082 @@ Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en
 [2015.04.08-19.58.31:933][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Shotgun_Hip_Copy_Auto2381BDE274EE3636F2C5CAF8F8F2A1052.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Reload_Shotgun_Hip_Copy_Auto2.uasset'
 [2015.04.08-19.58.32:014][853]LogSavePackage: Save=72.595047ms
 [2015.04.08-19.58.32:014][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Shotgun_Ironsights_Copy_Auto2F58A3D56462518314D1ECB934682752F.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Reload_Shotgun_Ironsights_Copy_Auto2.uasset'
-[2015.04.08-19.58.32:121][853]LogSavePa
+[2015.04.08-19.58.32:121][853]LogSavePackage: Save=96.880753ms
+[2015.04.08-19.58.32:122][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Sprint_Fwd_Rifle_Copy_Auto27E99F2274753CD7E44B97D9E62E62DD6.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Sprint_Fwd_Rifle_Copy_Auto2.uasset'
+[2015.04.08-19.58.32:214][853]LogSavePackage: Save=82.374367ms
+[2015.04.08-19.58.32:215][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Stand_to_Crouch_Rifle_Hip_Copy_Auto2353253BF45155F681948A48A9C0C80EA.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Stand_to_Crouch_Rifle_Hip_Copy_Auto2.uasset'
+[2015.04.08-19.58.32:296][853]LogSavePackage: Save=72.687943ms
+[2015.04.08-19.58.32:297][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Stand_to_Crouch_Rifle_Ironsights_Copy_Auto26695BA9C48DFAABC5BED61B85DC015EF.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Stand_to_Crouch_Rifle_Ironsights_Copy_Auto2.uasset'
+[2015.04.08-19.58.32:382][853]LogSavePackage: Save=74.608223ms
+[2015.04.08-19.58.32:382][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Stand_To_Prone_Copy_Auto2241F7C3444A499B6B48F8BBB34296B94.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Stand_To_Prone_Copy_Auto2.uasset'
+[2015.04.08-19.58.32:464][853]LogSavePackage: Save=72.570885ms
+[2015.04.08-19.58.32:464][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Walk_Bwd_Rifle_Ironsights_Copy_Auto2F08CF4664B4F3BB6E60C29B4D8DDC9D7.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Walk_Bwd_Rifle_Ironsights_Copy_Auto2.uasset'
+[2015.04.08-19.58.32:547][853]LogSavePackage: Save=73.892982ms
+[2015.04.08-19.58.32:548][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Walk_Fwd_Rifle_Ironsights_Copy_Auto2ACD8CFA942F3D40E58E0EE8A80C95C88.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Walk_Fwd_Rifle_Ironsights_Copy_Auto2.uasset'
+[2015.04.08-19.58.32:659][853]LogSavePackage: Save=102.347435ms
+[2015.04.08-19.58.32:660][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Walk_Lt_Rifle_Ironsights_Copy_Auto2B88F193F4921E661B80147B1DBD10B17.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Walk_Lt_Rifle_Ironsights_Copy_Auto2.uasset'
+[2015.04.08-19.58.32:792][853]LogSavePackage: Save=117.546013ms
+[2015.04.08-19.58.32:793][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Walk_Rt_Rifle_Ironsights_Copy_Auto2246050474F69D699B1A0AB8EF7AFEBC6.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Walk_Rt_Rifle_Ironsights_Copy_Auto2.uasset'
+[2015.04.08-19.58.32:797][853]LogFileHelpers: Auto-saving content packages took 9.170
+[2015.04.08-20.08.48:993][260]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/ODSTCharacter'
+[2015.04.08-20.09.08:068][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/_1___Defaultmat'
+[2015.04.08-20.09.08:068][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/_1___Defaultmat' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset.
+[2015.04.08-20.09.08:068][490]LoadErrors:Error: Error /Game/ODSTCharacter/ODST : Can't find file for asset. /Game/ODSTCharacter/_1___Defaultmat
+[2015.04.08-20.09.08:068][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/_2___Defaultmat'
+[2015.04.08-20.09.08:068][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/_2___Defaultmat' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset.
+[2015.04.08-20.09.08:068][490]LoadErrors:Error: Error /Game/ODSTCharacter/ODST : Can't find file for asset. /Game/ODSTCharacter/_2___Defaultmat
+[2015.04.08-20.09.08:069][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/_3___Defaultmat'
+[2015.04.08-20.09.08:069][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/_3___Defaultmat' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset.
+[2015.04.08-20.09.08:069][490]LoadErrors:Error: Error /Game/ODSTCharacter/ODST : Can't find file for asset. /Game/ODSTCharacter/_3___Defaultmat
+[2015.04.08-20.09.08:069][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ColorMaterial_57E15700_fxmat'
+[2015.04.08-20.09.08:069][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ColorMaterial_57E15700_fxmat' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset.
+[2015.04.08-20.09.08:069][490]LoadErrors:Error: Error /Game/ODSTCharacter/ODST : Can't find file for asset. /Game/ODSTCharacter/ColorMaterial_57E15700_fxmat
+[2015.04.08-20.09.08:069][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ColorMaterial_B1581B00_fxmat'
+[2015.04.08-20.09.08:069][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ColorMaterial_B1581B00_fxmat' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset.
+[2015.04.08-20.09.08:070][490]LoadErrors:Error: Error /Game/ODSTCharacter/ODST : Can't find file for asset. /Game/ODSTCharacter/ColorMaterial_B1581B00_fxmat
+[2015.04.08-20.09.08:070][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/Material__25mat'
+[2015.04.08-20.09.08:070][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/Material__25mat' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset.
+[2015.04.08-20.09.08:070][490]LoadErrors:Error: Error /Game/ODSTCharacter/ODST : Can't find file for asset. /Game/ODSTCharacter/Material__25mat
+[2015.04.08-20.09.08:070][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/_1___Defaultmat'
+[2015.04.08-20.09.08:070][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/_1___Defaultmat' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset.
+[2015.04.08-20.09.08:070][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/_2___Defaultmat'
+[2015.04.08-20.09.08:070][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/_2___Defaultmat' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset.
+[2015.04.08-20.09.08:071][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/_3___Defaultmat'
+[2015.04.08-20.09.08:071][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/_3___Defaultmat' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset.
+[2015.04.08-20.09.08:071][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ColorMaterial_57E15700_fxmat'
+[2015.04.08-20.09.08:071][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ColorMaterial_57E15700_fxmat' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset.
+[2015.04.08-20.09.08:071][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ColorMaterial_B1581B00_fxmat'
+[2015.04.08-20.09.08:071][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ColorMaterial_B1581B00_fxmat' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset.
+[2015.04.08-20.09.08:072][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/Material__25mat'
+[2015.04.08-20.09.08:072][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/Material__25mat' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset.
+[2015.04.08-20.09.08:072][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_PhysicsAsset'
+[2015.04.08-20.09.08:072][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_PhysicsAsset' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset.
+[2015.04.08-20.09.08:072][490]LoadErrors:Error: Error /Game/ODSTCharacter/ODST : Can't find file for asset. /Game/ODSTCharacter/ODST_PhysicsAsset
+[2015.04.08-20.09.08:072][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:072][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset.
+[2015.04.08-20.09.08:072][490]LoadErrors:Error: Error /Game/ODSTCharacter/ODST : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:073][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_PhysicsAsset'
+[2015.04.08-20.09.08:073][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_PhysicsAsset' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset.
+[2015.04.08-20.09.08:073][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:073][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset.
+[2015.04.08-20.09.08:075][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:075][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Walk_Rt_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:075][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Walk_Rt_Rifle_Ironsights_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:075][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:075][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Walk_Rt_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:087][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:087][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Walk_Lt_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:087][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Walk_Lt_Rifle_Ironsights_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:088][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:088][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Walk_Lt_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:089][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:089][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Walk_Fwd_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:089][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Walk_Fwd_Rifle_Ironsights_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:090][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:090][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Walk_Fwd_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:091][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:091][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Walk_Bwd_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:091][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Walk_Bwd_Rifle_Ironsights_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:092][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:092][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Walk_Bwd_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:094][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:094][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Bwd_Rifle_Copy.uasset.
+[2015.04.08-20.09.08:094][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Jog_Bwd_Rifle_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:094][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:094][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Bwd_Rifle_Copy.uasset.
+[2015.04.08-20.09.08:095][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:095][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Fwd_Rifle_Copy.uasset.
+[2015.04.08-20.09.08:095][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Jog_Fwd_Rifle_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:096][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:096][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Fwd_Rifle_Copy.uasset.
+[2015.04.08-20.09.08:097][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:097][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Lt_Rifle_Copy.uasset.
+[2015.04.08-20.09.08:097][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Jog_Lt_Rifle_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:097][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:097][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Lt_Rifle_Copy.uasset.
+[2015.04.08-20.09.08:098][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:098][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Rt_Rifle_Copy.uasset.
+[2015.04.08-20.09.08:098][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Jog_Rt_Rifle_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:099][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:099][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Rt_Rifle_Copy.uasset.
+[2015.04.08-20.09.08:100][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:100][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset.
+[2015.04.08-20.09.08:100][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:100][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset.
+[2015.04.08-20.09.08:102][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:102][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Reload_Pistol_Copy.uasset.
+[2015.04.08-20.09.08:102][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Reload_Pistol_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:102][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:102][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Reload_Pistol_Copy.uasset.
+[2015.04.08-20.09.08:104][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:104][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Reload_Rifle_Hip_Copy.uasset.
+[2015.04.08-20.09.08:104][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Reload_Rifle_Hip_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:104][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:104][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Reload_Rifle_Hip_Copy.uasset.
+[2015.04.08-20.09.08:106][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:106][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Reload_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:106][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Reload_Rifle_Ironsights_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:106][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:106][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Reload_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:108][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:108][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Reload_Shotgun_Hip_Copy.uasset.
+[2015.04.08-20.09.08:108][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Reload_Shotgun_Hip_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:108][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:108][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Reload_Shotgun_Hip_Copy.uasset.
+[2015.04.08-20.09.08:110][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:110][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Reload_Shotgun_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:110][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Reload_Shotgun_Ironsights_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:110][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:110][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Reload_Shotgun_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:112][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:112][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Stand_To_Prone_Copy.uasset.
+[2015.04.08-20.09.08:112][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Stand_To_Prone_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:112][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:112][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Stand_To_Prone_Copy.uasset.
+[2015.04.08-20.09.08:114][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:114][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Stand_to_Crouch_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:114][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Stand_to_Crouch_Rifle_Ironsights_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:114][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:114][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Stand_to_Crouch_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:115][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:116][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Stand_to_Crouch_Rifle_Hip_Copy.uasset.
+[2015.04.08-20.09.08:116][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Stand_to_Crouch_Rifle_Hip_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:116][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:116][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Stand_to_Crouch_Rifle_Hip_Copy.uasset.
+[2015.04.08-20.09.08:117][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:118][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Sprint_Fwd_Rifle_Copy.uasset.
+[2015.04.08-20.09.08:118][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Sprint_Fwd_Rifle_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:118][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:118][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Sprint_Fwd_Rifle_Copy.uasset.
+[2015.04.08-20.09.08:119][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:119][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Death_1_Copy.uasset.
+[2015.04.08-20.09.08:120][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Prone_Death_1_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:120][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:120][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Death_1_Copy.uasset.
+[2015.04.08-20.09.08:121][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:121][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Fire_1_Copy.uasset.
+[2015.04.08-20.09.08:122][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Prone_Fire_1_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:122][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:122][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Fire_1_Copy.uasset.
+[2015.04.08-20.09.08:123][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:123][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Death_2_Copy.uasset.
+[2015.04.08-20.09.08:123][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Prone_Death_2_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:124][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:124][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Death_2_Copy.uasset.
+[2015.04.08-20.09.08:125][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:125][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Fire_2_Copy.uasset.
+[2015.04.08-20.09.08:125][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Prone_Fire_2_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:126][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:126][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Fire_2_Copy.uasset.
+[2015.04.08-20.09.08:127][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:127][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Idle_Copy.uasset.
+[2015.04.08-20.09.08:127][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Prone_Idle_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:127][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:128][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Idle_Copy.uasset.
+[2015.04.08-20.09.08:129][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:129][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Reload_Rifle_Copy.uasset.
+[2015.04.08-20.09.08:129][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Prone_Reload_Rifle_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:129][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:130][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Reload_Rifle_Copy.uasset.
+[2015.04.08-20.09.08:131][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:131][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Reload_Shotgun_Copy.uasset.
+[2015.04.08-20.09.08:131][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Prone_Reload_Shotgun_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:131][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:132][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Reload_Shotgun_Copy.uasset.
+[2015.04.08-20.09.08:133][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:133][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_To_Stand_Copy.uasset.
+[2015.04.08-20.09.08:133][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Prone_To_Stand_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:133][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:133][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_To_Stand_Copy.uasset.
+[2015.04.08-20.09.08:135][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:135][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Bwd_Rifle_Hip_Copy.uasset.
+[2015.04.08-20.09.08:135][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Crouch_Walk_Bwd_Rifle_Hip_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:136][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:136][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Bwd_Rifle_Hip_Copy.uasset.
+[2015.04.08-20.09.08:137][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:137][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Fwd_Rifle_Hip_Copy.uasset.
+[2015.04.08-20.09.08:137][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Crouch_Walk_Fwd_Rifle_Hip_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:137][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:137][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Fwd_Rifle_Hip_Copy.uasset.
+[2015.04.08-20.09.08:138][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:138][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Lt_Rifle_Hip_Copy.uasset.
+[2015.04.08-20.09.08:139][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Crouch_Walk_Lt_Rifle_Hip_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:139][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:139][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Lt_Rifle_Hip_Copy.uasset.
+[2015.04.08-20.09.08:140][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:140][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Rt_Rifle_Hip_Copy.uasset.
+[2015.04.08-20.09.08:140][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Crouch_Walk_Rt_Rifle_Hip_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:140][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:141][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Rt_Rifle_Hip_Copy.uasset.
+[2015.04.08-20.09.08:142][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:142][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_CrouchWalk_Copy.uasset.
+[2015.04.08-20.09.08:142][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:142][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_CrouchWalk_Copy.uasset.
+[2015.04.08-20.09.08:144][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:144][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Rifle_Hip_Copy.uasset.
+[2015.04.08-20.09.08:144][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Idle_Rifle_Hip_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:144][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:144][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Rifle_Hip_Copy.uasset.
+[2015.04.08-20.09.08:145][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:146][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Rifle_Hip_Copy2.uasset.
+[2015.04.08-20.09.08:146][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Idle_Rifle_Hip_Copy2 : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:146][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:146][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Rifle_Hip_Copy2.uasset.
+[2015.04.08-20.09.08:147][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:148][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:148][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Idle_Rifle_Ironsights_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:148][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:148][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:150][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:150][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Bwd_Rifle_Copy2.uasset.
+[2015.04.08-20.09.08:150][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Jog_Bwd_Rifle_Copy2 : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:150][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:151][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Bwd_Rifle_Copy2.uasset.
+[2015.04.08-20.09.08:152][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:152][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Fwd_Rifle_Copy2.uasset.
+[2015.04.08-20.09.08:153][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Jog_Fwd_Rifle_Copy2 : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:153][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:153][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Fwd_Rifle_Copy2.uasset.
+[2015.04.08-20.09.08:155][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:155][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Lt_Rifle_Copy2.uasset.
+[2015.04.08-20.09.08:155][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Jog_Lt_Rifle_Copy2 : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:155][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:156][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Lt_Rifle_Copy2.uasset.
+[2015.04.08-20.09.08:157][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:158][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Rt_Rifle_Copy2.uasset.
+[2015.04.08-20.09.08:158][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Jog_Rt_Rifle_Copy2 : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:158][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:158][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Rt_Rifle_Copy2.uasset.
+[2015.04.08-20.09.08:159][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:159][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jump_From_Jog_Copy.uasset.
+[2015.04.08-20.09.08:160][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Jump_From_Jog_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:160][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:160][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jump_From_Jog_Copy.uasset.
+[2015.04.08-20.09.08:161][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:161][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jump_From_Jog_Copy2.uasset.
+[2015.04.08-20.09.08:162][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Jump_From_Jog_Copy2 : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:162][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:162][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jump_From_Jog_Copy2.uasset.
+[2015.04.08-20.09.08:163][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:163][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jump_From_Stand_Copy.uasset.
+[2015.04.08-20.09.08:163][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Jump_From_Stand_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:164][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:164][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jump_From_Stand_Copy.uasset.
+[2015.04.08-20.09.08:165][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:165][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jump_From_Stand_Copy2.uasset.
+[2015.04.08-20.09.08:165][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Jump_From_Stand_Copy2 : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:166][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:166][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jump_From_Stand_Copy2.uasset.
+[2015.04.08-20.09.08:167][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:167][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jump_From_Stand_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:167][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Jump_From_Stand_Ironsights_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:168][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:168][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jump_From_Stand_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:169][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:169][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Fire_Rifle_Hip_Copy.uasset.
+[2015.04.08-20.09.08:169][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Fire_Rifle_Hip_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:170][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:170][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Fire_Rifle_Hip_Copy.uasset.
+[2015.04.08-20.09.08:171][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:171][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Fire_Shotgun_Hip_Copy.uasset.
+[2015.04.08-20.09.08:171][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Fire_Shotgun_Hip_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:172][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:172][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Fire_Shotgun_Hip_Copy.uasset.
+[2015.04.08-20.09.08:173][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:173][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Fire_Shotgun_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:173][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Fire_Shotgun_Ironsights_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:174][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:174][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Fire_Shotgun_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:175][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:175][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Hit_React_1_Copy.uasset.
+[2015.04.08-20.09.08:175][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Hit_React_1_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:176][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:176][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Hit_React_1_Copy.uasset.
+[2015.04.08-20.09.08:177][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:177][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Hit_React_2_Copy.uasset.
+[2015.04.08-20.09.08:177][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Hit_React_2_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:177][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:178][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Hit_React_2_Copy.uasset.
+[2015.04.08-20.09.08:179][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:179][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Hit_React_3_Copy.uasset.
+[2015.04.08-20.09.08:179][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Hit_React_3_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:179][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:180][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Hit_React_3_Copy.uasset.
+[2015.04.08-20.09.08:181][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:181][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Hit_React_4_Copy.uasset.
+[2015.04.08-20.09.08:181][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Hit_React_4_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:181][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:182][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Hit_React_4_Copy.uasset.
+[2015.04.08-20.09.08:183][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:183][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Pistol_Copy.uasset.
+[2015.04.08-20.09.08:183][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Idle_Pistol_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:183][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:184][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Pistol_Copy.uasset.
+[2015.04.08-20.09.08:185][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:185][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Rifle_Hip_Break1_Copy.uasset.
+[2015.04.08-20.09.08:185][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Idle_Rifle_Hip_Break1_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:185][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:186][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Rifle_Hip_Break1_Copy.uasset.
+[2015.04.08-20.09.08:187][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:187][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Rifle_Hip_Break2_Copy.uasset.
+[2015.04.08-20.09.08:187][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Idle_Rifle_Hip_Break2_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:187][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:188][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Rifle_Hip_Break2_Copy.uasset.
+[2015.04.08-20.09.08:189][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:189][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Fire_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:189][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Fire_Rifle_Ironsights_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:189][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:190][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Fire_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:191][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:191][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Idle_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:191][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Crouch_Idle_Rifle_Ironsights_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:192][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:192][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Idle_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:193][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:193][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_to_Stand_Rifle_Hip_Copy.uasset.
+[2015.04.08-20.09.08:193][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Crouch_to_Stand_Rifle_Hip_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:194][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:194][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_to_Stand_Rifle_Hip_Copy.uasset.
+[2015.04.08-20.09.08:195][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:195][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_to_Stand_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:195][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Crouch_to_Stand_Rifle_Ironsights_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:196][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:196][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_to_Stand_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:198][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:198][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Bwd_Rifle_Hip_Copy2.uasset.
+[2015.04.08-20.09.08:198][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Crouch_Walk_Bwd_Rifle_Hip_Copy2 : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:198][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:198][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Bwd_Rifle_Hip_Copy2.uasset.
+[2015.04.08-20.09.08:200][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:200][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Bwd_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:200][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Crouch_Walk_Bwd_Rifle_Ironsights_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:200][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:200][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Bwd_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:202][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:202][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Fwd_Rifle_Hip_Copy2.uasset.
+[2015.04.08-20.09.08:203][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Crouch_Walk_Fwd_Rifle_Hip_Copy2 : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:203][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:203][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Fwd_Rifle_Hip_Copy2.uasset.
+[2015.04.08-20.09.08:204][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:205][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Fwd_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:205][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Crouch_Walk_Fwd_Rifle_Ironsights_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:205][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:205][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Fwd_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:207][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:207][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Lt_Rifle_Hip_Copy2.uasset.
+[2015.04.08-20.09.08:207][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Crouch_Walk_Lt_Rifle_Hip_Copy2 : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:208][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:208][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Lt_Rifle_Hip_Copy2.uasset.
+[2015.04.08-20.09.08:209][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:209][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Lt_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:209][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Crouch_Walk_Lt_Rifle_Ironsights_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:210][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:210][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Lt_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:212][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:212][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Rt_Rifle_Hip_Copy2.uasset.
+[2015.04.08-20.09.08:212][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Crouch_Walk_Rt_Rifle_Hip_Copy2 : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:213][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:213][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Rt_Rifle_Hip_Copy2.uasset.
+[2015.04.08-20.09.08:214][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:214][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Rt_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:214][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Crouch_Walk_Rt_Rifle_Ironsights_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:215][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:215][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Rt_Rifle_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:216][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:216][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_1_Copy.uasset.
+[2015.04.08-20.09.08:216][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Death_1_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:217][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:217][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_1_Copy.uasset.
+[2015.04.08-20.09.08:218][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:218][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_2_Copy.uasset.
+[2015.04.08-20.09.08:218][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Death_2_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:219][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:219][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_2_Copy.uasset.
+[2015.04.08-20.09.08:220][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:220][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_3_Copy.uasset.
+[2015.04.08-20.09.08:220][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Death_3_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:221][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:221][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_3_Copy.uasset.
+[2015.04.08-20.09.08:222][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:222][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_Ironsights_1_Copy.uasset.
+[2015.04.08-20.09.08:222][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Death_Ironsights_1_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:223][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:223][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_Ironsights_1_Copy.uasset.
+[2015.04.08-20.09.08:224][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:224][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_Ironsights_2_Copy.uasset.
+[2015.04.08-20.09.08:224][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Death_Ironsights_2_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:225][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:225][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_Ironsights_2_Copy.uasset.
+[2015.04.08-20.09.08:226][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:226][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Equip_Pistol_Standing_Copy.uasset.
+[2015.04.08-20.09.08:226][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Equip_Pistol_Standing_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:227][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:227][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Equip_Pistol_Standing_Copy.uasset.
+[2015.04.08-20.09.08:228][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:228][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Equip_Rifle_Standing_Copy.uasset.
+[2015.04.08-20.09.08:228][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Equip_Rifle_Standing_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:229][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:229][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Equip_Rifle_Standing_Copy.uasset.
+[2015.04.08-20.09.08:230][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:230][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Idle_Rifle_Hip_Copy.uasset.
+[2015.04.08-20.09.08:231][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Crouch_Idle_Rifle_Hip_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:231][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:231][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Idle_Rifle_Hip_Copy.uasset.
+[2015.04.08-20.09.08:232][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:232][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Idle_Rifle_Hip_Copy2.uasset.
+[2015.04.08-20.09.08:233][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Crouch_Idle_Rifle_Hip_Copy2 : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:233][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:233][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Idle_Rifle_Hip_Copy2.uasset.
+[2015.04.08-20.09.08:234][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:235][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Aim_Space_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:235][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Aim_Space_Ironsights_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:235][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:235][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Aim_Space_Ironsights_Copy.uasset.
+[2015.04.08-20.09.08:236][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:237][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Aim_Space_Hip_Copy.uasset.
+[2015.04.08-20.09.08:237][490]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/Aim_Space_Hip_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-20.09.08:237][490]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-20.09.08:237][490]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Aim_Space_Hip_Copy.uasset.
+[2015.04.08-20.09.08:506][490]LogSavePackage: Save=39.291168ms
+[2015.04.08-20.09.08:506][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/sarge_stripe_cc5CCA5B244EAE85AFFB73E5B742C3E323.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Character/sarge_stripe_cc.uasset'
+[2015.04.08-20.09.08:524][490]LogSavePackage: Save=2.716476ms
+[2015.04.08-20.09.08:524][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ODST_Skeleton8AC8FCA84171AA01EDD85DAA3051C3C3.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Character/ODST_Skeleton.uasset'
+[2015.04.08-20.09.08:541][490]LogSavePackage: Save=7.536782ms
+[2015.04.08-20.09.08:541][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ODST_PhysicsAssetF6CB5EBB4FD5E85EDA74DA96374CC91C.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Character/ODST_PhysicsAsset.uasset'
+[2015.04.08-20.09.08:776][490]LogSavePackage: Save=201.824814ms
+[2015.04.08-20.09.08:776][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/odst_helmet_zbump027F3D7246B65EB825FDCE81C20EAAAB.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Character/odst_helmet_zbump.uasset'
+[2015.04.08-20.09.08:946][490]LogSavePackage: Save=153.931366ms
+[2015.04.08-20.09.08:946][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/odst_helmet_diffuseCE0E491145CF63FC03A365B83EC0B58D.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Character/odst_helmet_diffuse.uasset'
+[2015.04.08-20.09.09:108][490]LogSavePackage: Save=147.438644ms
+[2015.04.08-20.09.09:108][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/odst_body_zbump55EC922346A5FE52EA35418FA5E567D1.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Character/odst_body_zbump.uasset'
+[2015.04.08-20.09.09:398][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/ODST" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset" SILENT=true
+[2015.04.08-20.09.09:417][490]LogSavePackage: Save=12.156154ms
+[2015.04.08-20.09.09:417][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ODST841AFCA7419CDCA3C167E8AA9602DB96.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset'
+[2015.04.08-20.09.09:435][490]LogSavePackage: Save=3.977531ms
+[2015.04.08-20.09.09:435][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Walk_Rt_Rifle_Ironsights_CopyF068031242CAB7746C3503A4963015B9.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Walk_Rt_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.09:450][490]LogSavePackage: Save=3.923054ms
+[2015.04.08-20.09.09:450][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Walk_Lt_Rifle_Ironsights_Copy6F1D5F354E989E242AE7EDA5F17989E7.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Walk_Lt_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.09:464][490]LogSavePackage: Save=3.395264ms
+[2015.04.08-20.09.09:464][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Walk_Fwd_Rifle_Ironsights_Copy6000FC7146C13682F9FA05AF082173CF.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Walk_Fwd_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.09:479][490]LogSavePackage: Save=3.762839ms
+[2015.04.08-20.09.09:479][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Walk_Bwd_Rifle_Ironsights_CopyBAD78B48467C18BEACFD29B39F0991AF.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Walk_Bwd_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.09:483][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Animation/R_Jog_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset" SILENT=true
+[2015.04.08-20.09.09:493][490]LogSavePackage: Save=3.851118ms
+[2015.04.08-20.09.09:493][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/R_Jog_CopyC4DB52EE4DA3BBCFCBA8D29D5194ACA8.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset'
+[2015.04.08-20.09.09:508][490]LogSavePackage: Save=3.302305ms
+[2015.04.08-20.09.09:508][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Pistol_Copy3B0DD0F04F7425C61EFDE5AEE7E0D1A4.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Reload_Pistol_Copy.uasset'
+[2015.04.08-20.09.09:523][490]LogSavePackage: Save=3.476839ms
+[2015.04.08-20.09.09:523][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Rifle_Hip_CopyBB02D9724C15E77FE9A2398F0E0A884C.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Reload_Rifle_Hip_Copy.uasset'
+[2015.04.08-20.09.09:538][490]LogSavePackage: Save=3.414051ms
+[2015.04.08-20.09.09:538][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Rifle_Ironsights_Copy9AF867E44DF3412BAC19BEA8F869BA6E.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Reload_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.09:556][490]LogSavePackage: Save=4.014896ms
+[2015.04.08-20.09.09:556][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Shotgun_Hip_Copy2EC34AEC42BF384C3A57428F1885328D.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Reload_Shotgun_Hip_Copy.uasset'
+[2015.04.08-20.09.09:572][490]LogSavePackage: Save=4.579213ms
+[2015.04.08-20.09.09:572][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Shotgun_Ironsights_CopyF0444F3147DBCF343F82A2BE5B60C768.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Reload_Shotgun_Ironsights_Copy.uasset'
+[2015.04.08-20.09.09:588][490]LogSavePackage: Save=3.337435ms
+[2015.04.08-20.09.09:588][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Stand_To_Prone_Copy26A1613541FE648FFA741488EC60891C.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Stand_To_Prone_Copy.uasset'
+[2015.04.08-20.09.09:605][490]LogSavePackage: Save=4.331137ms
+[2015.04.08-20.09.09:605][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Stand_to_Crouch_Rifle_Ironsights_Copy6B6647E64BE9D655BB598B97FE83A464.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Stand_to_Crouch_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.09:621][490]LogSavePackage: Save=3.540743ms
+[2015.04.08-20.09.09:621][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Stand_to_Crouch_Rifle_Hip_Copy9CC4A100470AE9BAC51219B22FEED5AC.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Stand_to_Crouch_Rifle_Hip_Copy.uasset'
+[2015.04.08-20.09.09:636][490]LogSavePackage: Save=3.402597ms
+[2015.04.08-20.09.09:636][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Sprint_Fwd_Rifle_CopyF91A28A043B10F409B924BB67B307D69.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Sprint_Fwd_Rifle_Copy.uasset'
+[2015.04.08-20.09.09:651][490]LogSavePackage: Save=3.473346ms
+[2015.04.08-20.09.09:651][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Death_1_Copy77B3C9AB4D82BF6C3A6A128B44E2786A.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Death_1_Copy.uasset'
+[2015.04.08-20.09.09:666][490]LogSavePackage: Save=3.241194ms
+[2015.04.08-20.09.09:666][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Fire_1_Copy4BFE625A46EEC9C7FA6DB282A6A5951F.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Fire_1_Copy.uasset'
+[2015.04.08-20.09.09:683][490]LogSavePackage: Save=3.887366ms
+[2015.04.08-20.09.09:683][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Death_2_CopyD2D8ECAD460A18D79B4D82BDD98AA485.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Death_2_Copy.uasset'
+[2015.04.08-20.09.09:698][490]LogSavePackage: Save=3.047385ms
+[2015.04.08-20.09.09:698][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Fire_2_Copy3E191C4C40538FFABEEE0F99BBFFBF3E.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Fire_2_Copy.uasset'
+[2015.04.08-20.09.09:714][490]LogSavePackage: Save=4.481925ms
+[2015.04.08-20.09.09:714][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Idle_CopyDBD02D0D42D92A4E8631D2BE324741A4.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Idle_Copy.uasset'
+[2015.04.08-20.09.09:733][490]LogSavePackage: Save=4.084737ms
+[2015.04.08-20.09.09:733][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Reload_Rifle_Copy1CF152B74B915EEB576168BE21587E7D.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Reload_Rifle_Copy.uasset'
+[2015.04.08-20.09.09:750][490]LogSavePackage: Save=4.131042ms
+[2015.04.08-20.09.09:750][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Reload_Shotgun_Copy486DF5694B01467EDFBA62BF6D1AC020.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Reload_Shotgun_Copy.uasset'
+[2015.04.08-20.09.09:766][490]LogSavePackage: Save=3.581042ms
+[2015.04.08-20.09.09:766][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_To_Stand_CopyA957C196449A8AC978F5EFB2DC5F6140.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_To_Stand_Copy.uasset'
+[2015.04.08-20.09.09:785][490]LogSavePackage: Save=5.933226ms
+[2015.04.08-20.09.09:785][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/R_CrouchWalk_Copy587F113044B8D1F8CB92BAA0F93683A8.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_CrouchWalk_Copy.uasset'
+[2015.04.08-20.09.09:802][490]LogSavePackage: Save=4.495963ms
+[2015.04.08-20.09.09:802][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Rifle_Hip_Copy8F02B43B44074DE5F16DF5BAC4931B9C.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Rifle_Hip_Copy.uasset'
+[2015.04.08-20.09.09:820][490]LogSavePackage: Save=4.397626ms
+[2015.04.08-20.09.09:820][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Rifle_Hip_Copy2DDD667934ACF5941107787BA564B07B1.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Rifle_Hip_Copy2.uasset'
+[2015.04.08-20.09.09:837][490]LogSavePackage: Save=4.172388ms
+[2015.04.08-20.09.09:837][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Rifle_Ironsights_CopyCEA5BE434C49A625984CD49CB0A84930.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.09:855][490]LogSavePackage: Save=4.891194ms
+[2015.04.08-20.09.09:855][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Bwd_Rifle_CopyEB4CCDA44AC48F2A2D770499EC4C852E.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Bwd_Rifle_Copy.uasset'
+[2015.04.08-20.09.09:873][490]LogSavePackage: Save=3.619804ms
+[2015.04.08-20.09.09:873][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Bwd_Rifle_Copy24A76394E42079776BC631BBBA1AB132C.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Bwd_Rifle_Copy2.uasset'
+[2015.04.08-20.09.09:890][490]LogSavePackage: Save=3.372705ms
+[2015.04.08-20.09.09:890][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Fwd_Rifle_Copy9021C3914FB405D0398267901820936F.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Fwd_Rifle_Copy.uasset'
+[2015.04.08-20.09.09:906][490]LogSavePackage: Save=3.459867ms
+[2015.04.08-20.09.09:906][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Fwd_Rifle_Copy278FD9FE348D1F4779AFFB1B5C79ADECC.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Fwd_Rifle_Copy2.uasset'
+[2015.04.08-20.09.09:925][490]LogSavePackage: Save=3.848813ms
+[2015.04.08-20.09.09:925][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Lt_Rifle_Copy826FAAF84485C44F0F6167A52D8E288B.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Lt_Rifle_Copy.uasset'
+[2015.04.08-20.09.09:942][490]LogSavePackage: Save=4.085715ms
+[2015.04.08-20.09.09:942][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Lt_Rifle_Copy2423A64F44284C53594FD8780B3721D4B.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Lt_Rifle_Copy2.uasset'
+[2015.04.08-20.09.09:961][490]LogSavePackage: Save=3.883943ms
+[2015.04.08-20.09.09:961][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Rt_Rifle_CopyE0AE11F74E57960AA5D14EB394DBA5A7.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Rt_Rifle_Copy.uasset'
+[2015.04.08-20.09.09:978][490]LogSavePackage: Save=3.437448ms
+[2015.04.08-20.09.09:978][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Rt_Rifle_Copy2D7CB52CF465E007F06DDBB80F5CA020D.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Rt_Rifle_Copy2.uasset'
+[2015.04.08-20.09.09:995][490]LogSavePackage: Save=3.429137ms
+[2015.04.08-20.09.09:995][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jump_From_Jog_Copy913C6232434A3918E3B81984C9B3C88F.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jump_From_Jog_Copy.uasset'
+[2015.04.08-20.09.10:012][490]LogSavePackage: Save=3.474604ms
+[2015.04.08-20.09.10:012][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jump_From_Jog_Copy2895B01814C9A45EA60CA8DABC722D378.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jump_From_Jog_Copy2.uasset'
+[2015.04.08-20.09.10:031][490]LogSavePackage: Save=3.457632ms
+[2015.04.08-20.09.10:031][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jump_From_Stand_Copy9272DF2B42D5051C8BA20C97CEFE5313.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jump_From_Stand_Copy.uasset'
+[2015.04.08-20.09.10:049][490]LogSavePackage: Save=3.862921ms
+[2015.04.08-20.09.10:049][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jump_From_Stand_Copy22E2557164CB5F91DB4EC13BD1C2CA9F5.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jump_From_Stand_Copy2.uasset'
+[2015.04.08-20.09.10:067][490]LogSavePackage: Save=3.442966ms
+[2015.04.08-20.09.10:067][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jump_From_Stand_Ironsights_Copy446F49AF48D472143AF51F9B86549963.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jump_From_Stand_Ironsights_Copy.uasset'
+[2015.04.08-20.09.10:084][490]LogSavePackage: Save=3.261239ms
+[2015.04.08-20.09.10:084][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Fire_Rifle_Hip_Copy3D87F8854C3543768DB9C18926FBA48E.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Fire_Rifle_Hip_Copy.uasset'
+[2015.04.08-20.09.10:102][490]LogSavePackage: Save=3.264521ms
+[2015.04.08-20.09.10:102][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Fire_Shotgun_Hip_CopyDC4C2AF04CE339EB7073C9B2AD479611.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Fire_Shotgun_Hip_Copy.uasset'
+[2015.04.08-20.09.10:121][490]LogSavePackage: Save=3.745448ms
+[2015.04.08-20.09.10:121][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Fire_Shotgun_Ironsights_Copy1513E4D549918C922ACF618151841762.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Fire_Shotgun_Ironsights_Copy.uasset'
+[2015.04.08-20.09.10:138][490]LogSavePackage: Save=3.244128ms
+[2015.04.08-20.09.10:138][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Hit_React_1_CopyFEBC7D8A457330D903F54E959EF106D1.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Hit_React_1_Copy.uasset'
+[2015.04.08-20.09.10:156][490]LogSavePackage: Save=3.053950ms
+[2015.04.08-20.09.10:156][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Hit_React_2_CopyFB4FD6D24E21042C6B7CC5A009D5C6CF.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Hit_React_2_Copy.uasset'
+[2015.04.08-20.09.10:174][490]LogSavePackage: Save=3.378083ms
+[2015.04.08-20.09.10:174][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Hit_React_3_Copy00B2C5704866E78F667B7193E13AA84B.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Hit_React_3_Copy.uasset'
+[2015.04.08-20.09.10:194][490]LogSavePackage: Save=4.991556ms
+[2015.04.08-20.09.10:194][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Hit_React_4_CopyA8463F6F4410B612BA27CE94D64D945D.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Hit_React_4_Copy.uasset'
+[2015.04.08-20.09.10:214][490]LogSavePackage: Save=5.669855ms
+[2015.04.08-20.09.10:214][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Pistol_CopyE9CF2F5B4435898FCC9A57A4167DEB95.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Pistol_Copy.uasset'
+[2015.04.08-20.09.10:234][490]LogSavePackage: Save=4.383728ms
+[2015.04.08-20.09.10:234][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Rifle_Hip_Break1_Copy91E5B9CF4C0EE2F1C0EEAF86BEE81657.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Rifle_Hip_Break1_Copy.uasset'
+[2015.04.08-20.09.10:253][490]LogSavePackage: Save=3.955601ms
+[2015.04.08-20.09.10:253][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Rifle_Hip_Break2_Copy54E048644DD242A72A0C51B10EA6E9C9.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Rifle_Hip_Break2_Copy.uasset'
+[2015.04.08-20.09.10:272][490]LogSavePackage: Save=3.311035ms
+[2015.04.08-20.09.10:272][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Fire_Rifle_Ironsights_CopyD2A4A37745668789DEC718A2C7EF0187.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Fire_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.10:291][490]LogSavePackage: Save=4.041296ms
+[2015.04.08-20.09.10:291][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Idle_Rifle_Ironsights_CopyE21C1E2A481946465904B790DCFC587D.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Idle_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.10:311][490]LogSavePackage: Save=3.359226ms
+[2015.04.08-20.09.10:311][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_to_Stand_Rifle_Hip_Copy03D05AAC4DFF2E4474F94BA9013321A2.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_to_Stand_Rifle_Hip_Copy.uasset'
+[2015.04.08-20.09.10:330][490]LogSavePackage: Save=3.355803ms
+[2015.04.08-20.09.10:330][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_to_Stand_Rifle_Ironsights_Copy65B6EBC443F0015B7A6557ADA6632F3B.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_to_Stand_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.10:349][490]LogSavePackage: Save=3.590680ms
+[2015.04.08-20.09.10:349][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Bwd_Rifle_Hip_CopyAF11B8674612353142E802B2B206A655.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Bwd_Rifle_Hip_Copy.uasset'
+[2015.04.08-20.09.10:368][490]LogSavePackage: Save=3.432350ms
+[2015.04.08-20.09.10:368][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Bwd_Rifle_Hip_Copy2C418708D412EF5F6181FB3BCC9017A3D.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Bwd_Rifle_Hip_Copy2.uasset'
+[2015.04.08-20.09.10:390][490]LogSavePackage: Save=5.353194ms
+[2015.04.08-20.09.10:390][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Bwd_Rifle_Ironsights_Copy8F0FC07A48F2C175869A91A893B6CE97.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Bwd_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.10:409][490]LogSavePackage: Save=3.564350ms
+[2015.04.08-20.09.10:409][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Fwd_Rifle_Hip_Copy3F52429946C93F3C0B42AEAE563BEA77.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Fwd_Rifle_Hip_Copy.uasset'
+[2015.04.08-20.09.10:429][490]LogSavePackage: Save=3.529918ms
+[2015.04.08-20.09.10:429][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Fwd_Rifle_Hip_Copy26A8A6600463173CD42C9529DB1E56581.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Fwd_Rifle_Hip_Copy2.uasset'
+[2015.04.08-20.09.10:448][490]LogSavePackage: Save=3.540115ms
+[2015.04.08-20.09.10:448][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Fwd_Rifle_Ironsights_Copy0AB296014B52595892092C985BE64A85.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Fwd_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.10:468][490]LogSavePackage: Save=3.834985ms
+[2015.04.08-20.09.10:468][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Lt_Rifle_Hip_Copy444FDBBA4E1DB4D22CF3D6A80D158489.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Lt_Rifle_Hip_Copy.uasset'
+[2015.04.08-20.09.10:489][490]LogSavePackage: Save=3.643829ms
+[2015.04.08-20.09.10:489][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Lt_Rifle_Hip_Copy29538F2194623472185742CB011CEEE46.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Lt_Rifle_Hip_Copy2.uasset'
+[2015.04.08-20.09.10:509][490]LogSavePackage: Save=3.601924ms
+[2015.04.08-20.09.10:509][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Lt_Rifle_Ironsights_Copy41B7A68A42D1DD6703CC5982BA5D3A18.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Lt_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.10:529][490]LogSavePackage: Save=3.503308ms
+[2015.04.08-20.09.10:529][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Rt_Rifle_Hip_CopyD18AB9A2485575F69937BCB5A881FC23.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Rt_Rifle_Hip_Copy.uasset'
+[2015.04.08-20.09.10:550][490]LogSavePackage: Save=5.164762ms
+[2015.04.08-20.09.10:550][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Rt_Rifle_Hip_Copy2871AD1C147E6B9E605CAC38E35B9A1C6.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Rt_Rifle_Hip_Copy2.uasset'
+[2015.04.08-20.09.10:571][490]LogSavePackage: Save=3.445480ms
+[2015.04.08-20.09.10:571][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Rt_Rifle_Ironsights_CopyAAC23B1D455F2D43670A7E9D197373CD.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Rt_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.10:575][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Animation/Death_1_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_1_Copy.uasset" SILENT=true
+[2015.04.08-20.09.10:591][490]LogSavePackage: Save=3.444921ms
+[2015.04.08-20.09.10:591][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Death_1_CopyCB9D16AA4F7E972D34EA549F937953A4.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_1_Copy.uasset'
+[2015.04.08-20.09.10:595][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Animation/Death_2_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_2_Copy.uasset" SILENT=true
+[2015.04.08-20.09.10:611][490]LogSavePackage: Save=3.399524ms
+[2015.04.08-20.09.10:611][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Death_2_Copy082824DE469864C4410A07A60A42B12A.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_2_Copy.uasset'
+[2015.04.08-20.09.10:616][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Animation/Death_3_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_3_Copy.uasset" SILENT=true
+[2015.04.08-20.09.10:631][490]LogSavePackage: Save=3.284007ms
+[2015.04.08-20.09.10:631][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Death_3_CopyE4DAD1A1471A89B402102AB1CFD7BE78.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_3_Copy.uasset'
+[2015.04.08-20.09.10:653][490]LogSavePackage: Save=3.621899ms
+[2015.04.08-20.09.10:653][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Death_Ironsights_1_CopyCF84D0FE490C6775ABA8EF93EF7EDC2E.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_Ironsights_1_Copy.uasset'
+[2015.04.08-20.09.10:674][490]LogSavePackage: Save=3.450299ms
+[2015.04.08-20.09.10:674][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Death_Ironsights_2_CopyF8678CA54DC36EC56791B7972F99BBC6.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_Ironsights_2_Copy.uasset'
+[2015.04.08-20.09.10:694][490]LogSavePackage: Save=3.429416ms
+[2015.04.08-20.09.10:694][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Equip_Pistol_Standing_CopyA79E8EF6419BDC926F7A3E862DF2811C.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Equip_Pistol_Standing_Copy.uasset'
+[2015.04.08-20.09.10:715][490]LogSavePackage: Save=3.342394ms
+[2015.04.08-20.09.10:715][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Equip_Rifle_Standing_Copy64E23D134E8BFC1BF6B6B58C8C2262F1.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Equip_Rifle_Standing_Copy.uasset'
+[2015.04.08-20.09.10:739][490]LogSavePackage: Save=5.701353ms
+[2015.04.08-20.09.10:739][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Idle_Rifle_Hip_CopyD3A09770466729B4BFF664A90598B896.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Idle_Rifle_Hip_Copy.uasset'
+[2015.04.08-20.09.10:760][490]LogSavePackage: Save=4.055683ms
+[2015.04.08-20.09.10:760][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Idle_Rifle_Hip_Copy28D8EFB664BB9AD50076555B071CD1BBE.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Idle_Rifle_Hip_Copy2.uasset'
+[2015.04.08-20.09.10:783][490]LogSavePackage: Save=3.844553ms
+[2015.04.08-20.09.10:783][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Aim_Space_Ironsights_Copy3AED6A364E501D53F3EC70AA7E039D62.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Aim_Space_Ironsights_Copy.uasset'
+[2015.04.08-20.09.10:805][490]LogSavePackage: Save=3.806769ms
+[2015.04.08-20.09.10:805][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Aim_Space_Hip_CopyCE56A94345401DAF78F0F6B78488FF2F.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Aim_Space_Hip_Copy.uasset'
+[2015.04.08-20.09.10:810][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/ODST" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset" SILENT=true
+[2015.04.08-20.09.10:833][490]LogSavePackage: Save=10.605817ms
+[2015.04.08-20.09.10:833][490]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ODSTAED30BD1493ABB4D222DE8AAFB4E0528.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset'
+[2015.04.08-20.09.20:331][463]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.011
+[2015.04.08-20.09.20:431][463]LogSavePackage: Save=96.735130ms
+[2015.04.08-20.09.20:432][463]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/odst_helmet_diffuse_Auto393B57E194B4977DA5D4C61BC7C8CB529.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/odst_helmet_diffuse_Auto3.uasset'
+[2015.04.08-20.09.20:509][463]LogSavePackage: Save=68.196098ms
+[2015.04.08-20.09.20:510][463]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/odst_helmet_zbump_Auto32D6EF003430EF406C69CC5BB64EA9260.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/odst_helmet_zbump_Auto3.uasset'
+[2015.04.08-20.09.20:593][463]LogSavePackage: Save=75.411888ms
+[2015.04.08-20.09.20:594][463]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/odst_body_zbump_Auto3491D6E37484E96D8187641929C3DD9E4.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/odst_body_zbump_Auto3.uasset'
+[2015.04.08-20.09.20:675][463]LogSavePackage: Save=73.315392ms
+[2015.04.08-20.09.20:676][463]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/sarge_stripe_cc_Auto35734BA264046A975E6887681AB43F102.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/sarge_stripe_cc_Auto3.uasset'
+[2015.04.08-20.09.20:775][463]LogSavePackage: Save=89.007195ms
+[2015.04.08-20.09.20:775][463]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ODST_PhysicsAsset_Auto34C7DB2764E600B06A0C297876CC04CAF.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/ODST_PhysicsAsset_Auto3.uasset'
+[2015.04.08-20.09.20:858][463]LogSavePackage: Save=74.403381ms
+[2015.04.08-20.09.20:859][463]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ODST_Skeleton_Auto3255FB2B44032DDE80B137A9B8FA480C6.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/ODST_Skeleton_Auto3.uasset'
+[2015.04.08-20.09.20:864][463]LogFileHelpers: Auto-saving content packages took 0.533
+[2015.04.08-20.09.24:596][849]LogMetaData: Removing '/Game/ODSTCharacter/Character/ASP_HeroTPP_AnimBlueprint_Copy.SKEL_ASP_HeroTPP_AnimBlueprint_Copy_C' ref from Metadata '/Game/ODSTCharacter/ASP_HeroTPP_AnimBlueprint_Copy.PackageMetaData'
+[2015.04.08-20.09.24:596][849]LogMetaData: Removing '/Game/ODSTCharacter/Character/ASP_HeroTPP_AnimBlueprint_Copy.ASP_HeroTPP_AnimBlueprint_Copy_C' ref from Metadata '/Game/ODSTCharacter/ASP_HeroTPP_AnimBlueprint_Copy.PackageMetaData'
+[2015.04.08-20.09.24:894][849]LogSavePackage: Save=163.356308ms
+[2015.04.08-20.09.24:894][849]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/_1___DefaultmatD548F17241895B9BA2686AB2C52F2E2F.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Character/_1___Defaultmat.uasset'
+[2015.04.08-20.09.25:041][849]LogSavePackage: Save=127.156105ms
+[2015.04.08-20.09.25:041][849]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/_2___Defaultmat18A8B27246B4324E3BDB9A8D77ECFFF8.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Character/_2___Defaultmat.uasset'
+[2015.04.08-20.09.25:207][849]LogSavePackage: Save=145.540771ms
+[2015.04.08-20.09.25:207][849]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/_3___DefaultmatFBBE64194F7677145AB363BB7BBD3158.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Character/_3___Defaultmat.uasset'
+[2015.04.08-20.09.25:617][849]LogSavePackage: Save=389.744934ms
+[2015.04.08-20.09.25:617][849]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ASP_HeroTPP_AnimBlueprint_Copy27AB66154D42BA1F9DA92EAACD74FCDC.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Character/ASP_HeroTPP_AnimBlueprint_Copy.uasset'
+[2015.04.08-20.09.25:689][849]LogSavePackage: Save=59.622803ms
+[2015.04.08-20.09.25:689][849]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/badges_diffuseDEA9011848E1A5016D4A46A85860F6D0.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Character/badges_diffuse.uasset'
+[2015.04.08-20.09.26:080][849]LogSavePackage: Save=369.612701ms
+[2015.04.08-20.09.26:080][849]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ColorMaterial_57E15700_fxmat31C3976A4B05B8C165EEA0A1D7C4E5E0.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Character/ColorMaterial_57E15700_fxmat.uasset'
+[2015.04.08-20.09.26:462][849]LogSavePackage: Save=361.062653ms
+[2015.04.08-20.09.26:462][849]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ColorMaterial_B1581B00_fxmat3DD6B745489BD9384FF53BB9F0CFC6B8.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Character/ColorMaterial_B1581B00_fxmat.uasset'
+[2015.04.08-20.09.26:715][849]LogSavePackage: Save=234.935928ms
+[2015.04.08-20.09.26:715][849]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Material__25matBFC0A3614F1616973C174AA4414A7B14.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Character/Material__25mat.uasset'
+[2015.04.08-20.09.26:736][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Character/ODST" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Character/ODST.uasset" SILENT=true
+[2015.04.08-20.09.27:004][849]LogSavePackage: Save=266.737396ms
+[2015.04.08-20.09.27:004][849]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ODST4669EDBF4D2A6F9E05A4BF90FB93DD4D.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Character/ODST.uasset'
+[2015.04.08-20.09.27:136][849]LogSavePackage: Save=116.893417ms
+[2015.04.08-20.09.27:137][849]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/odst_body_diffuse60A21C3F488872463C0583A7CC6417AD.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Character/odst_body_diffuse.uasset'
+[2015.04.08-20.09.27:534][849]LogSavePackage: Save=4.951817ms
+[2015.04.08-20.09.27:534][849]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ODST_SkeletonEF47BF8A4C7A282803A4799043680DE3.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Character/ODST_Skeleton.uasset'
+[2015.04.08-20.09.27:561][849]LogSavePackage: Save=8.775626ms
+[2015.04.08-20.09.27:561][849]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ODST_PhysicsAsset1BC2ED8949510D4F400EC28DF9DD19C0.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Character/ODST_PhysicsAsset.uasset'
+[2015.04.08-20.09.31:796][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/_3___Defaultmat" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/_3___Defaultmat.uasset" SILENT=true
+[2015.04.08-20.09.31:804][335]LogSavePackage: Save=3.860547ms
+[2015.04.08-20.09.31:804][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/_3___DefaultmatB127A0B8417C9C0DF3439CB132B12641.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/_3___Defaultmat.uasset'
+[2015.04.08-20.09.31:816][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/odst_helmet_diffuse" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/odst_helmet_diffuse.uasset" SILENT=true
+[2015.04.08-20.09.31:821][335]LogSavePackage: Save=3.071200ms
+[2015.04.08-20.09.31:821][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/odst_helmet_diffuseE5771E2C4C5E9517C5900DB34370679E.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/odst_helmet_diffuse.uasset'
+[2015.04.08-20.09.31:833][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/odst_helmet_zbump" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/odst_helmet_zbump.uasset" SILENT=true
+[2015.04.08-20.09.31:836][335]LogSavePackage: Save=1.451232ms
+[2015.04.08-20.09.31:836][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/odst_helmet_zbumpC1132F4F4716A528B099F9B06BE62FB7.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/odst_helmet_zbump.uasset'
+[2015.04.08-20.09.31:843][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/_2___Defaultmat" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/_2___Defaultmat.uasset" SILENT=true
+[2015.04.08-20.09.31:846][335]LogSavePackage: Save=1.534972ms
+[2015.04.08-20.09.31:846][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/_2___Defaultmat6E51973D4F6623F7740722BB635F0962.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/_2___Defaultmat.uasset'
+[2015.04.08-20.09.31:853][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/odst_body_diffuse" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/odst_body_diffuse.uasset" SILENT=true
+[2015.04.08-20.09.31:856][335]LogSavePackage: Save=1.517022ms
+[2015.04.08-20.09.31:856][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/odst_body_diffuse74FB18F34B3F6AEECDCA1CBA1D57B907.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/odst_body_diffuse.uasset'
+[2015.04.08-20.09.31:863][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/odst_body_zbump" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/odst_body_zbump.uasset" SILENT=true
+[2015.04.08-20.09.31:866][335]LogSavePackage: Save=1.637778ms
+[2015.04.08-20.09.31:866][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/odst_body_zbump580EF8F0476B9C00332115B68161EDEA.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/odst_body_zbump.uasset'
+[2015.04.08-20.09.31:872][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Material__25mat" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Material__25mat.uasset" SILENT=true
+[2015.04.08-20.09.31:875][335]LogSavePackage: Save=1.509689ms
+[2015.04.08-20.09.31:875][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Material__25mat5BFBCCE34D9B1EBB7FF5179FEA55C689.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Material__25mat.uasset'
+[2015.04.08-20.09.31:882][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/sarge_stripe_cc" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/sarge_stripe_cc.uasset" SILENT=true
+[2015.04.08-20.09.31:885][335]LogSavePackage: Save=1.542235ms
+[2015.04.08-20.09.31:885][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/sarge_stripe_cc0DCD40CB48D17DE8A4FF0EBD603E7272.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/sarge_stripe_cc.uasset'
+[2015.04.08-20.09.31:894][335]LogSavePackage: Save=1.470019ms
+[2015.04.08-20.09.31:894][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ColorMaterial_57E15700_fxmat5832B33F440CF62E4D8E6E9ECCE3B9DC.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ColorMaterial_57E15700_fxmat.uasset'
+[2015.04.08-20.09.31:903][335]LogSavePackage: Save=1.607676ms
+[2015.04.08-20.09.31:903][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ColorMaterial_B1581B00_fxmat0BC247CF4FE91F85A5E82AB552A81774.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ColorMaterial_B1581B00_fxmat.uasset'
+[2015.04.08-20.09.31:910][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/_1___Defaultmat" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/_1___Defaultmat.uasset" SILENT=true
+[2015.04.08-20.09.31:913][335]LogSavePackage: Save=1.459962ms
+[2015.04.08-20.09.31:913][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/_1___Defaultmat28440D244FCAF8EF9CEE15A5691534EE.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/_1___Defaultmat.uasset'
+[2015.04.08-20.09.31:920][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/badges_diffuse" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/badges_diffuse.uasset" SILENT=true
+[2015.04.08-20.09.31:923][335]LogSavePackage: Save=1.593219ms
+[2015.04.08-20.09.31:923][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/badges_diffuseD4428C3043375C59695FFBA46007B5E4.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/badges_diffuse.uasset'
+[2015.04.08-20.09.31:929][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/ODST_PhysicsAsset" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST_PhysicsAsset.uasset" SILENT=true
+[2015.04.08-20.09.31:932][335]LogSavePackage: Save=1.558089ms
+[2015.04.08-20.09.31:932][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ODST_PhysicsAsset7A2D7CC44E8144977965BBAAE67BCCFE.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST_PhysicsAsset.uasset'
+[2015.04.08-20.09.31:939][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/ODST_Skeleton" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST_Skeleton.uasset" SILENT=true
+[2015.04.08-20.09.31:942][335]LogSavePackage: Save=1.621784ms
+[2015.04.08-20.09.31:942][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ODST_Skeleton5FDAC78646A9A7E740B46585A9127717.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST_Skeleton.uasset'
+[2015.04.08-20.09.31:949][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/Character/HeroTPP" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/AnimStarterPack/Character/HeroTPP.uasset" SILENT=true
+[2015.04.08-20.09.31:971][335]LogSavePackage: Save=8.808033ms
+[2015.04.08-20.09.31:971][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/HeroTPP0C852BF345C8ED9379E51F962DF6E34D.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/AnimStarterPack/Character/HeroTPP.uasset'
+[2015.04.08-20.09.31:997][335]LogSavePackage: Save=3.462312ms
+[2015.04.08-20.09.31:997][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/HeroTPP_Skeleton57CF8EDC43842161C6D8728DED5FF8C9.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/AnimStarterPack/Character/HeroTPP_Skeleton.uasset'
+[2015.04.08-20.09.32:004][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Jog_Bwd_Rifle_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jog_Bwd_Rifle_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:007][335]LogSavePackage: Save=1.632470ms
+[2015.04.08-20.09.32:007][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Bwd_Rifle_Copy6CD405154A7A6097676C76B479227BEB.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jog_Bwd_Rifle_Copy.uasset'
+[2015.04.08-20.09.32:014][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Jog_Lt_Rifle_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jog_Lt_Rifle_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:017][335]LogSavePackage: Save=1.500330ms
+[2015.04.08-20.09.32:017][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Lt_Rifle_CopyC17A4DC648D76D68D907269EEDC91D78.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jog_Lt_Rifle_Copy.uasset'
+[2015.04.08-20.09.32:024][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Jog_Fwd_Rifle_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jog_Fwd_Rifle_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:027][335]LogSavePackage: Save=1.492787ms
+[2015.04.08-20.09.32:027][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Fwd_Rifle_CopyF38A26A546C9E38D97E47B88922BD379.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jog_Fwd_Rifle_Copy.uasset'
+[2015.04.08-20.09.32:033][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Jog_Rt_Rifle_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jog_Rt_Rifle_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:036][335]LogSavePackage: Save=1.497886ms
+[2015.04.08-20.09.32:036][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Rt_Rifle_Copy9E2D75DD4A48956E0B980EBBF1D4AB5C.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jog_Rt_Rifle_Copy.uasset'
+[2015.04.08-20.09.32:044][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Jump_From_Stand_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jump_From_Stand_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:046][335]LogSavePackage: Save=1.478121ms
+[2015.04.08-20.09.32:046][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jump_From_Stand_Copy9E5304574854D5B69B25768D70BDD152.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jump_From_Stand_Copy.uasset'
+[2015.04.08-20.09.32:054][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Jump_From_Jog_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jump_From_Jog_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:056][335]LogSavePackage: Save=1.467924ms
+[2015.04.08-20.09.32:056][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jump_From_Jog_Copy8B7096FB44ED55C44ABB26B10A426B7D.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jump_From_Jog_Copy.uasset'
+[2015.04.08-20.09.32:063][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Idle_Rifle_Hip_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Idle_Rifle_Hip_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:066][335]LogSavePackage: Save=1.536368ms
+[2015.04.08-20.09.32:066][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Rifle_Hip_CopyA81A161F483732C2C0FF82A8D510AB81.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Idle_Rifle_Hip_Copy.uasset'
+[2015.04.08-20.09.32:075][335]LogSavePackage: Save=1.511226ms
+[2015.04.08-20.09.32:075][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Idle_Rifle_Hip_Copy389CF574425A6AA78D609589E9036B24.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Crouch_Idle_Rifle_Hip_Copy.uasset'
+[2015.04.08-20.09.32:085][335]LogSavePackage: Save=1.549289ms
+[2015.04.08-20.09.32:085][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Bwd_Rifle_Hip_CopyA758EE7C4E1A74CF324C41979AA94EE4.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Crouch_Walk_Bwd_Rifle_Hip_Copy.uasset'
+[2015.04.08-20.09.32:095][335]LogSavePackage: Save=1.500051ms
+[2015.04.08-20.09.32:095][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Lt_Rifle_Hip_CopyECD00E05463D490783F70087E0D5CDF2.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Crouch_Walk_Lt_Rifle_Hip_Copy.uasset'
+[2015.04.08-20.09.32:105][335]LogSavePackage: Save=1.491740ms
+[2015.04.08-20.09.32:105][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Fwd_Rifle_Hip_CopyA2D5228641A75E79503EEDB1A2C722B7.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Crouch_Walk_Fwd_Rifle_Hip_Copy.uasset'
+[2015.04.08-20.09.32:115][335]LogSavePackage: Save=1.572965ms
+[2015.04.08-20.09.32:115][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Rt_Rifle_Hip_Copy961314F24D98D6A2272DC98601A1310D.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Crouch_Walk_Rt_Rifle_Hip_Copy.uasset'
+[2015.04.08-20.09.32:121][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/R_Jog_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/R_Jog_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:124][335]LogSavePackage: Save=1.477353ms
+[2015.04.08-20.09.32:124][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/R_Jog_Copy40871D7B4AC35A32089F24BBC05AFBBD.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/R_Jog_Copy.uasset'
+[2015.04.08-20.09.32:130][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/R_CrouchWalk_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/R_CrouchWalk_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:133][335]LogSavePackage: Save=1.521772ms
+[2015.04.08-20.09.32:133][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/R_CrouchWalk_CopyAA1589174433DF76A6BA6CB13C58A7EA.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/R_CrouchWalk_Copy.uasset'
+[2015.04.08-20.09.32:143][335]LogSavePackage: Save=1.513251ms
+[2015.04.08-20.09.32:143][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ASP_HeroTPP_AnimBlueprint_CopyCAE24669490A41B0A3838AB973E78310.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ASP_HeroTPP_AnimBlueprint_Copy.uasset'
+[2015.04.08-20.09.32:149][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Aim_Space_Hip_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Aim_Space_Hip_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:152][335]LogSavePackage: Save=1.627930ms
+[2015.04.08-20.09.32:152][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Aim_Space_Hip_Copy74C0DAAB4E669A3D977021B84F2D6493.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Aim_Space_Hip_Copy.uasset'
+[2015.04.08-20.09.32:162][335]LogSavePackage: Save=1.508222ms
+[2015.04.08-20.09.32:162][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Aim_Space_Ironsights_Copy4DC107EF465C8F457A66A6991EC63953.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Aim_Space_Ironsights_Copy.uasset'
+[2015.04.08-20.09.32:171][335]LogSavePackage: Save=1.516673ms
+[2015.04.08-20.09.32:171][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Idle_Rifle_Hip_Copy2EC61D1DA497EB19954CE3A8D31C382CD.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Crouch_Idle_Rifle_Hip_Copy2.uasset'
+[2015.04.08-20.09.32:182][335]LogSavePackage: Save=2.173740ms
+[2015.04.08-20.09.32:182][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Idle_Rifle_Ironsights_Copy5CC63DBC4D52B6B5479763AEFE20BB47.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Crouch_Idle_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.32:193][335]LogSavePackage: Save=2.440743ms
+[2015.04.08-20.09.32:193][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_to_Stand_Rifle_Hip_Copy8EA4AF0C4A2C0018F72150BAACF23F10.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Crouch_to_Stand_Rifle_Hip_Copy.uasset'
+[2015.04.08-20.09.32:203][335]LogSavePackage: Save=1.547822ms
+[2015.04.08-20.09.32:203][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_to_Stand_Rifle_Ironsights_Copy6C0C39614B6BD215853D2887CE49B12C.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Crouch_to_Stand_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.32:213][335]LogSavePackage: Save=1.662781ms
+[2015.04.08-20.09.32:213][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Bwd_Rifle_Hip_Copy2B788E8E9475D234243DA588BE8FAFB5D.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Crouch_Walk_Bwd_Rifle_Hip_Copy2.uasset'
+[2015.04.08-20.09.32:224][335]LogSavePackage: Save=1.549708ms
+[2015.04.08-20.09.32:224][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Bwd_Rifle_Ironsights_Copy8E593A5D4DF01B185A2E13A8B723055F.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Crouch_Walk_Bwd_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.32:233][335]LogSavePackage: Save=1.538673ms
+[2015.04.08-20.09.32:233][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Fwd_Rifle_Hip_Copy225A6C9F7425991A8ED00EC9CD9FF2162.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Crouch_Walk_Fwd_Rifle_Hip_Copy2.uasset'
+[2015.04.08-20.09.32:242][335]LogSavePackage: Save=1.626045ms
+[2015.04.08-20.09.32:242][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Fwd_Rifle_Ironsights_CopyC4A167144D987ABA9A6F918F6D5D6428.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Crouch_Walk_Fwd_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.32:253][335]LogSavePackage: Save=1.622483ms
+[2015.04.08-20.09.32:253][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Lt_Rifle_Hip_Copy2B29EBBD24859628E7C27898819469BC1.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Crouch_Walk_Lt_Rifle_Hip_Copy2.uasset'
+[2015.04.08-20.09.32:263][335]LogSavePackage: Save=1.511924ms
+[2015.04.08-20.09.32:263][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Lt_Rifle_Ironsights_Copy4B19E15940AA6BF10058988F40D0DAC7.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Crouch_Walk_Lt_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.32:272][335]LogSavePackage: Save=2.181772ms
+[2015.04.08-20.09.32:272][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Rt_Rifle_Hip_Copy26946750E4271BA9F0BB6588C4530D37F.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Crouch_Walk_Rt_Rifle_Hip_Copy2.uasset'
+[2015.04.08-20.09.32:282][335]LogSavePackage: Save=1.619899ms
+[2015.04.08-20.09.32:282][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Rt_Rifle_Ironsights_Copy18711B5744D33FB6C578288DDEBF6C48.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Crouch_Walk_Rt_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.32:288][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Death_1_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Death_1_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:291][335]LogSavePackage: Save=1.545518ms
+[2015.04.08-20.09.32:291][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Death_1_Copy020CE92B4BBA59A866F59FBD919EFE67.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Death_1_Copy.uasset'
+[2015.04.08-20.09.32:297][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Death_2_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Death_2_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:300][335]LogSavePackage: Save=1.607746ms
+[2015.04.08-20.09.32:300][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Death_2_Copy54FAFC444DE9DFE7F1BC248B1CD708FD.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Death_2_Copy.uasset'
+[2015.04.08-20.09.32:306][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Death_3_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Death_3_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:309][335]LogSavePackage: Save=1.504521ms
+[2015.04.08-20.09.32:309][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Death_3_Copy2D6D6CC54FB2D8CFFDD1CCAD9D93B2A2.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Death_3_Copy.uasset'
+[2015.04.08-20.09.32:318][335]LogSavePackage: Save=1.489994ms
+[2015.04.08-20.09.32:318][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Death_Ironsights_1_Copy9603A561478702240C1F1D992326CB3E.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Death_Ironsights_1_Copy.uasset'
+[2015.04.08-20.09.32:329][335]LogSavePackage: Save=1.620318ms
+[2015.04.08-20.09.32:329][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Death_Ironsights_2_CopyA7BD83AD44F13D992926E2BE1BDDA89B.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Death_Ironsights_2_Copy.uasset'
+[2015.04.08-20.09.32:339][335]LogSavePackage: Save=1.817340ms
+[2015.04.08-20.09.32:339][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Equip_Pistol_Standing_Copy9506563D4898B9612625669FDD7C4B49.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Equip_Pistol_Standing_Copy.uasset'
+[2015.04.08-20.09.32:348][335]LogSavePackage: Save=1.658172ms
+[2015.04.08-20.09.32:348][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Equip_Rifle_Standing_CopyF71E0B334338C0EB4B4CBFA62B63A8DC.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Equip_Rifle_Standing_Copy.uasset'
+[2015.04.08-20.09.32:355][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Fire_Rifle_Hip_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Fire_Rifle_Hip_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:358][335]LogSavePackage: Save=1.557391ms
+[2015.04.08-20.09.32:358][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Fire_Rifle_Hip_Copy340930DE4F51FE9AAE561C9F69FAAF63.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Fire_Rifle_Hip_Copy.uasset'
+[2015.04.08-20.09.32:367][335]LogSavePackage: Save=1.495721ms
+[2015.04.08-20.09.32:367][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Fire_Rifle_Ironsights_Copy9452AA6147566275137B6DB0D29E5501.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Fire_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.32:374][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Fire_Shotgun_Hip_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Fire_Shotgun_Hip_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:376][335]LogSavePackage: Save=1.448927ms
+[2015.04.08-20.09.32:376][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Fire_Shotgun_Hip_Copy636AF8C742A2DED06AEF838FC49E557B.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Fire_Shotgun_Hip_Copy.uasset'
+[2015.04.08-20.09.32:386][335]LogSavePackage: Save=1.504032ms
+[2015.04.08-20.09.32:386][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Fire_Shotgun_Ironsights_Copy8105AF9D45077B496FAA2DA9044A99A1.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Fire_Shotgun_Ironsights_Copy.uasset'
+[2015.04.08-20.09.32:392][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Hit_React_1_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Hit_React_1_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:395][335]LogSavePackage: Save=1.456051ms
+[2015.04.08-20.09.32:395][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Hit_React_1_CopyD478A7CF40CAE72E7FAC4581236A4EAD.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Hit_React_1_Copy.uasset'
+[2015.04.08-20.09.32:402][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Hit_React_2_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Hit_React_2_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:404][335]LogSavePackage: Save=1.522540ms
+[2015.04.08-20.09.32:404][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Hit_React_2_CopyD9628F10415D14A6883D26BDEB6D367C.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Hit_React_2_Copy.uasset'
+[2015.04.08-20.09.32:410][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Hit_React_3_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Hit_React_3_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:413][335]LogSavePackage: Save=1.488178ms
+[2015.04.08-20.09.32:413][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Hit_React_3_Copy00A170B3470DAB0F55AF0E9FC95E3869.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Hit_React_3_Copy.uasset'
+[2015.04.08-20.09.32:420][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Hit_React_4_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Hit_React_4_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:424][335]LogSavePackage: Save=1.508781ms
+[2015.04.08-20.09.32:424][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Hit_React_4_Copy2DA13D01437D3BF56EB836A1E170EE43.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Hit_React_4_Copy.uasset'
+[2015.04.08-20.09.32:430][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Idle_Pistol_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Idle_Pistol_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:433][335]LogSavePackage: Save=1.493765ms
+[2015.04.08-20.09.32:433][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Pistol_Copy80F1EDC747482DDE68A2389A8607F9F9.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Idle_Pistol_Copy.uasset'
+[2015.04.08-20.09.32:440][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Idle_Rifle_Hip_Copy2" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Idle_Rifle_Hip_Copy2.uasset" SILENT=true
+[2015.04.08-20.09.32:442][335]LogSavePackage: Save=1.507803ms
+[2015.04.08-20.09.32:442][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Rifle_Hip_Copy27B763FDE4B5AD3990030F4A5ED8499ED.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Idle_Rifle_Hip_Copy2.uasset'
+[2015.04.08-20.09.32:452][335]LogSavePackage: Save=1.592172ms
+[2015.04.08-20.09.32:452][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Rifle_Hip_Break1_Copy6451EB084E0ED1AF07DE139C6789EBC1.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Idle_Rifle_Hip_Break1_Copy.uasset'
+[2015.04.08-20.09.32:461][335]LogSavePackage: Save=1.500749ms
+[2015.04.08-20.09.32:461][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Rifle_Hip_Break2_CopyBD7D217443C8A7A19BD64F93F62126A9.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Idle_Rifle_Hip_Break2_Copy.uasset'
+[2015.04.08-20.09.32:470][335]LogSavePackage: Save=1.509061ms
+[2015.04.08-20.09.32:471][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Rifle_Ironsights_CopyDDE0D9C9451DED933401029C33A3EAC4.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Idle_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.32:477][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Jog_Bwd_Rifle_Copy2" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jog_Bwd_Rifle_Copy2.uasset" SILENT=true
+[2015.04.08-20.09.32:480][335]LogSavePackage: Save=1.679194ms
+[2015.04.08-20.09.32:480][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Bwd_Rifle_Copy21C78F16D45C032FB1822E3B504B28588.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jog_Bwd_Rifle_Copy2.uasset'
+[2015.04.08-20.09.32:487][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Jog_Fwd_Rifle_Copy2" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jog_Fwd_Rifle_Copy2.uasset" SILENT=true
+[2015.04.08-20.09.32:490][335]LogSavePackage: Save=1.535460ms
+[2015.04.08-20.09.32:490][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Fwd_Rifle_Copy2BD10A94C4E82B052D5AE2F8305329C32.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jog_Fwd_Rifle_Copy2.uasset'
+[2015.04.08-20.09.32:497][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Jog_Lt_Rifle_Copy2" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jog_Lt_Rifle_Copy2.uasset" SILENT=true
+[2015.04.08-20.09.32:500][335]LogSavePackage: Save=1.754553ms
+[2015.04.08-20.09.32:500][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Lt_Rifle_Copy2D7F6A776470994FC27536398FF76C823.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jog_Lt_Rifle_Copy2.uasset'
+[2015.04.08-20.09.32:506][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Jog_Rt_Rifle_Copy2" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jog_Rt_Rifle_Copy2.uasset" SILENT=true
+[2015.04.08-20.09.32:508][335]LogSavePackage: Save=1.470997ms
+[2015.04.08-20.09.32:508][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Rt_Rifle_Copy2C6B581BA4AB9457C152736B45F46B692.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jog_Rt_Rifle_Copy2.uasset'
+[2015.04.08-20.09.32:515][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Jump_From_Jog_Copy2" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jump_From_Jog_Copy2.uasset" SILENT=true
+[2015.04.08-20.09.32:517][335]LogSavePackage: Save=1.461499ms
+[2015.04.08-20.09.32:517][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jump_From_Jog_Copy2B70929B140F86B2B52576F86CB5C7DC9.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jump_From_Jog_Copy2.uasset'
+[2015.04.08-20.09.32:524][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Jump_From_Stand_Copy2" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jump_From_Stand_Copy2.uasset" SILENT=true
+[2015.04.08-20.09.32:526][335]LogSavePackage: Save=1.448159ms
+[2015.04.08-20.09.32:526][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jump_From_Stand_Copy29158B3DE47C6202FCA9514B2FDC7F288.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jump_From_Stand_Copy2.uasset'
+[2015.04.08-20.09.32:535][335]LogSavePackage: Save=1.511086ms
+[2015.04.08-20.09.32:535][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jump_From_Stand_Ironsights_Copy739111D049327425B98E279FCA104A61.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Jump_From_Stand_Ironsights_Copy.uasset'
+[2015.04.08-20.09.32:542][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Prone_Death_1_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Prone_Death_1_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:545][335]LogSavePackage: Save=1.481753ms
+[2015.04.08-20.09.32:545][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Death_1_Copy30377CC2402875C45320AB920980DE1A.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Prone_Death_1_Copy.uasset'
+[2015.04.08-20.09.32:551][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Prone_Death_2_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Prone_Death_2_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:554][335]LogSavePackage: Save=1.465829ms
+[2015.04.08-20.09.32:554][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Death_2_Copy495DB5AA4DDF9A326B66BEA9A1FD6609.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Prone_Death_2_Copy.uasset'
+[2015.04.08-20.09.32:560][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Prone_Fire_1_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Prone_Fire_1_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:563][335]LogSavePackage: Save=1.490134ms
+[2015.04.08-20.09.32:563][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Fire_1_Copy32E88E054D91D2D73DBC16826AEA10AB.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Prone_Fire_1_Copy.uasset'
+[2015.04.08-20.09.32:569][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Prone_Fire_2_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Prone_Fire_2_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:572][335]LogSavePackage: Save=1.525124ms
+[2015.04.08-20.09.32:572][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Fire_2_Copy96476D6D402E76040C7AD9A039476B47.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Prone_Fire_2_Copy.uasset'
+[2015.04.08-20.09.32:578][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Prone_Idle_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Prone_Idle_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:581][335]LogSavePackage: Save=1.572197ms
+[2015.04.08-20.09.32:581][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Idle_CopyC301929644030F5BCE9602BBAB8A17CA.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Prone_Idle_Copy.uasset'
+[2015.04.08-20.09.32:592][335]LogSavePackage: Save=1.544261ms
+[2015.04.08-20.09.32:592][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Reload_Rifle_CopyF53E471645F1A89DF7DB67A5FD489B70.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Prone_Reload_Rifle_Copy.uasset'
+[2015.04.08-20.09.32:601][335]LogSavePackage: Save=1.532597ms
+[2015.04.08-20.09.32:601][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Reload_Shotgun_CopyD103250B40BA82CFD71542ADB6848BD5.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Prone_Reload_Shotgun_Copy.uasset'
+[2015.04.08-20.09.32:607][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Prone_To_Stand_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Prone_To_Stand_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:610][335]LogSavePackage: Save=1.585607ms
+[2015.04.08-20.09.32:610][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_To_Stand_Copy93E589EC4C780BE50055D7978BAA9560.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Prone_To_Stand_Copy.uasset'
+[2015.04.08-20.09.32:616][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Reload_Pistol_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Reload_Pistol_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:619][335]LogSavePackage: Save=1.481194ms
+[2015.04.08-20.09.32:619][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Pistol_Copy1A6F9BEA4CA5D92D75B79EB16EFEEBE7.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Reload_Pistol_Copy.uasset'
+[2015.04.08-20.09.32:625][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Reload_Rifle_Hip_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Reload_Rifle_Hip_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:628][335]LogSavePackage: Save=1.519537ms
+[2015.04.08-20.09.32:628][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Rifle_Hip_CopyD9AF485142DF86D39C3675B7DFC47B29.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Reload_Rifle_Hip_Copy.uasset'
+[2015.04.08-20.09.32:638][335]LogSavePackage: Save=1.495581ms
+[2015.04.08-20.09.32:638][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Rifle_Ironsights_CopyB1158E5E4FE399B7794A37A7E159D535.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Reload_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.32:646][335]LogSavePackage: Save=1.494254ms
+[2015.04.08-20.09.32:646][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Shotgun_Hip_Copy87CEF60D46347130364FB1BA5A893DA0.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Reload_Shotgun_Hip_Copy.uasset'
+[2015.04.08-20.09.32:655][335]LogSavePackage: Save=1.508502ms
+[2015.04.08-20.09.32:655][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Shotgun_Ironsights_Copy7C4FC8D34645EDAFE0A65FA05540433A.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Reload_Shotgun_Ironsights_Copy.uasset'
+[2015.04.08-20.09.32:661][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Sprint_Fwd_Rifle_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Sprint_Fwd_Rifle_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:664][335]LogSavePackage: Save=1.507873ms
+[2015.04.08-20.09.32:664][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Sprint_Fwd_Rifle_CopyF1C14E5F433728CAEDF8C2B8713013D0.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Sprint_Fwd_Rifle_Copy.uasset'
+[2015.04.08-20.09.32:674][335]LogSavePackage: Save=1.509899ms
+[2015.04.08-20.09.32:674][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Stand_to_Crouch_Rifle_Hip_Copy8D8EEF974F45F67439C3E0A2C0B42282.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Stand_to_Crouch_Rifle_Hip_Copy.uasset'
+[2015.04.08-20.09.32:683][335]LogSavePackage: Save=1.560254ms
+[2015.04.08-20.09.32:683][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Stand_to_Crouch_Rifle_Ironsights_Copy746C7C1449CB4B602F7D4FBCF2367BCC.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Stand_to_Crouch_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.32:689][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Stand_To_Prone_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Stand_To_Prone_Copy.uasset" SILENT=true
+[2015.04.08-20.09.32:692][335]LogSavePackage: Save=1.537695ms
+[2015.04.08-20.09.32:692][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Stand_To_Prone_CopyD3D8BB2B4D3DD56A0D631D8246A038BB.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Stand_To_Prone_Copy.uasset'
+[2015.04.08-20.09.32:701][335]LogSavePackage: Save=1.521911ms
+[2015.04.08-20.09.32:701][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Walk_Bwd_Rifle_Ironsights_Copy2D05267C41073C290708C2BF725BDDE5.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Walk_Bwd_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.32:710][335]LogSavePackage: Save=1.586794ms
+[2015.04.08-20.09.32:710][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Walk_Fwd_Rifle_Ironsights_Copy1A6168DB4E9E22F7B3614BAE3C2CD0A0.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Walk_Fwd_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.32:719][335]LogSavePackage: Save=1.687994ms
+[2015.04.08-20.09.32:719][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Walk_Lt_Rifle_Ironsights_Copy74170A4A4E150CF43E395DA346054EF0.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Walk_Lt_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.32:727][335]LogSavePackage: Save=1.465060ms
+[2015.04.08-20.09.32:727][335]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Walk_Rt_Rifle_Ironsights_CopyB678A3D94516E393A56F859980867ED5.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Walk_Rt_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-20.09.35:249][571]Cmd: QUIT_EDITOR
+[2015.04.08-20.09.35:444][571]LogExit: Preparing to exit.
+[2015.04.08-20.09.36:289][571]LogExit: Editor shut down
+[2015.04.08-20.09.36:289][571]LogExit: Transaction tracking system shut down
+[2015.04.08-20.09.36:290][571]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002852A70400
+[2015.04.08-20.09.36:291][571]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002802AF8180
+[2015.04.08-20.09.36:291][571]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000028041A4540
+[2015.04.08-20.09.36:291][571]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002804577880
+[2015.04.08-20.09.36:291][571]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000284FF196C0
+[2015.04.08-20.09.36:291][571]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002813617EC0
+[2015.04.08-20.09.36:291][571]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000280D95ECA0
+[2015.04.08-20.09.36:292][571]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000280D95F2E0
+[2015.04.08-20.09.36:292][571]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002814E49260
+[2015.04.08-20.09.36:394][571]LogExit: Object subsystem successfully closed.
+[2015.04.08-20.09.36:434][571]LogModuleManager: Shutting down and abandoning module CrashTracker (177)
+[2015.04.08-20.09.36:434][571]LogModuleManager: Shutting down and abandoning module SuperSearch (176)
+[2015.04.08-20.09.36:434][571]LogModuleManager: Shutting down and abandoning module SceneOutliner (175)
+[2015.04.08-20.09.36:434][571]LogModuleManager: Shutting down and abandoning module EditorWidgets (174)
+[2015.04.08-20.09.36:434][571]LogModuleManager: Shutting down and abandoning module CollectionManager (173)
+[2015.04.08-20.09.36:434][571]LogModuleManager: Shutting down and abandoning module StatsViewer (172)
+[2015.04.08-20.09.36:434][571]LogModuleManager: Shutting down and abandoning module FoliageEdit (171)
+[2015.04.08-20.09.36:434][571]LogModuleManager: Shutting down and abandoning module LandscapeEditor (170)
+[2015.04.08-20.09.36:434][571]LogModuleManager: Shutting down and abandoning module MeshPaint (169)
+[2015.04.08-20.09.36:434][571]LogModuleManager: Shutting down and abandoning module ActorPickerMode (168)
+[2015.04.08-20.09.36:434][571]LogModuleManager: Shutting down and abandoning module GeometryMode (167)
+[2015.04.08-20.09.36:434][571]LogModuleManager: Shutting down and abandoning module TextureAlignMode (166)
+[2015.04.08-20.09.36:434][571]LogModuleManager: Shutting down and abandoning module BspMode (165)
+[2015.04.08-20.09.36:434][571]LogModuleManager: Shutting down and abandoning module PlacementMode (164)
+[2015.04.08-20.09.36:434][571]LogModuleManager: Shutting down and abandoning module AutomationWorker (163)
+[2015.04.08-20.09.36:434][571]LogModuleManager: Shutting down and abandoning module CharacterAI (162)
+[2015.04.08-20.09.36:434][571]LogModuleManager: Shutting down and abandoning module SmartSnapping (161)
+[2015.04.08-20.09.36:434][571]LogModuleManager: Shutting down and abandoning module ViewportSnapping (160)
+[2015.04.08-20.09.36:434][571]LogModuleManager: Shutting down and abandoning module LogVisualizer (159)
+[2015.04.08-20.09.36:435][571]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (158)
+[2015.04.08-20.09.36:435][571]LogModuleManager: Shutting down and abandoning module IntroTutorials (157)
+[2015.04.08-20.09.36:435][571]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (156)
+[2015.04.08-20.09.36:435][571]LogModuleManager: Shutting down and abandoning module HardwareTargeting (155)
+[2015.04.08-20.09.36:435][571]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (154)
+[2015.04.08-20.09.36:435][571]LogModuleManager: Shutting down and abandoning module UndoHistory (153)
+[2015.04.08-20.09.36:435][571]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (152)
+[2015.04.08-20.09.36:435][571]LogModuleManager: Shutting down and abandoning module UserFeedback (151)
+[2015.04.08-20.09.36:435][571]LogModuleManager: Shutting down and abandoning module XmlParser (150)
+[2015.04.08-20.09.36:435][571]LogModuleManager: Shutting down and abandoning module Blutility (149)
+[2015.04.08-20.09.36:435][571]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (148)
+[2015.04.08-20.09.36:435][571]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (147)
+[2015.04.08-20.09.36:435][571]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (146)
+[2015.04.08-20.09.36:912][571]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (145)
+[2015.04.08-20.09.36:912][571]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (144)
+[2015.04.08-20.09.36:912][571]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (143)
+[2015.04.08-20.09.36:912][571]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (142)
+[2015.04.08-20.09.36:912][571]LogModuleManager: Shutting down and abandoning module InputBindingEditor (141)
+[2015.04.08-20.09.36:912][571]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (140)
+[2015.04.08-20.09.36:912][571]LogModuleManager: Shutting down and abandoning module SettingsEditor (139)
+[2015.04.08-20.09.36:912][571]LogModuleManager: Shutting down and abandoning module ProjectLauncher (138)
+[2015.04.08-20.09.36:913][571]LogModuleManager: Shutting down and abandoning module SessionFrontend (137)
+[2015.04.08-20.09.36:913][571]LogModuleManager: Shutting down and abandoning module ProfilerClient (136)
+[2015.04.08-20.09.36:913][571]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (135)
+[2015.04.08-20.09.36:913][571]LogModuleManager: Shutting down and abandoning module DeviceManager (134)
+[2015.04.08-20.09.36:913][571]LogModuleManager: Shutting down and abandoning module AutomationController (133)
+[2015.04.08-20.09.36:913][571]LogModuleManager: Shutting down and abandoning module AutomationWindow (132)
+[2015.04.08-20.09.36:913][571]LogModuleManager: Shutting down and abandoning module Layers (131)
+[2015.04.08-20.09.36:913][571]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (130)
+[2015.04.08-20.09.36:913][571]LogModuleManager: Shutting down and abandoning module DetailCustomizations (129)
+[2015.04.08-20.09.36:913][571]LogModuleManager: Shutting down and abandoning module PackagesDialog (128)
+[2015.04.08-20.09.36:913][571]LogModuleManager: Shutting down and abandoning module AssetRegistry (127)
+[2015.04.08-20.09.37:031][571]LogModuleManager: Shutting down and abandoning module Persona (126)
+[2015.04.08-20.09.37:031][571]LogModuleManager: Shutting down and abandoning module SlateReflector (125)
+[2015.04.08-20.09.37:031][571]LogModuleManager: Shutting down and abandoning module LevelEditor (124)
+[2015.04.08-20.09.37:032][571]LogModuleManager: Shutting down and abandoning module Kismet (123)
+[2015.04.08-20.09.37:032][571]LogModuleManager: Shutting down and abandoning module GraphEditor (122)
+[2015.04.08-20.09.37:032][571]LogModuleManager: Shutting down and abandoning module ClassViewer (121)
+[2015.04.08-20.09.37:032][571]LogModuleManager: Shutting down and abandoning module Toolbox (120)
+[2015.04.08-20.09.37:032][571]LogModuleManager: Shutting down and abandoning module ModuleUI (119)
+[2015.04.08-20.09.37:032][571]LogModuleManager: Shutting down and abandoning module MovieSceneTools (118)
+[2015.04.08-20.09.37:032][571]LogModuleManager: Shutting down and abandoning module OutputLog (117)
+[2015.04.08-20.09.37:032][571]LogModuleManager: Shutting down and abandoning module GammaUI (116)
+[2015.04.08-20.09.37:032][571]LogModuleManager: Shutting down and abandoning module Documentation (115)
+[2015.04.08-20.09.37:032][571]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (114)
+[2015.04.08-20.09.37:032][571]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (113)
+[2015.04.08-20.09.37:032][571]LogModuleManager: Shutting down and abandoning module HTTP (112)
+[2015.04.08-20.09.37:032][571]LogModuleManager: Shutting down and abandoning module AnalyticsET (111)
+[2015.04.08-20.09.37:032][571]LogModuleManager: Shutting down and abandoning module Analytics (110)
+[2015.04.08-20.09.37:032][571]LogModuleManager: Shutting down and abandoning module AITestSuite (109)
+[2015.04.08-20.09.37:032][571]LogModuleManager: Shutting down and abandoning module GameplayDebugger (108)
+[2015.04.08-20.09.37:032][571]LogModuleManager: Shutting down and abandoning module AIModule (107)
+[2015.04.08-20.09.37:033][571]LogModuleManager: Shutting down and abandoning module ProfilerService (106)
+[2015.04.08-20.09.37:101][571]LogModuleManager: Shutting down and abandoning module TaskGraph (105)
+[2015.04.08-20.09.37:101][571]LogModuleManager: Shutting down and abandoning module SlateRemote (104)
+[2015.04.08-20.09.37:101][571]LogModuleManager: Shutting down and abandoning module ScriptEditorPlugin (103)
+[2015.04.08-20.09.37:101][571]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (102)
+[2015.04.08-20.09.37:101][571]LogModuleManager: Shutting down and abandoning module CableComponent (101)
+[2015.04.08-20.09.37:101][571]LogModuleManager: Shutting down and abandoning module MessagingDebugger (100)
+[2015.04.08-20.09.37:101][571]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (99)
+[2015.04.08-20.09.37:101][571]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (98)
+[2015.04.08-20.09.37:101][571]LogModuleManager: Shutting down and abandoning module PluginsEditor (97)
+[2015.04.08-20.09.37:101][571]LogModuleManager: Shutting down and abandoning module MainFrame (96)
+[2015.04.08-20.09.37:101][571]LogModuleManager: Shutting down and abandoning module EpicSurvey (95)
+[2015.04.08-20.09.37:101][571]LogModuleManager: Shutting down and abandoning module DesktopPlatform (94)
+[2015.04.08-20.09.37:102][571]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (93)
+[2015.04.08-20.09.37:102][571]LogModuleManager: Shutting down and abandoning module HotReload (92)
+[2015.04.08-20.09.37:102][571]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (91)
+[2015.04.08-20.09.37:102][571]LogModuleManager: Shutting down and abandoning module UObjectPlugin (90)
+[2015.04.08-20.09.37:102][571]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (89)
+[2015.04.08-20.09.37:102][571]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (88)
+[2015.04.08-20.09.37:102][571]LogModuleManager: Shutting down and abandoning module SourceControl (87)
+[2015.04.08-20.09.37:102][571]LogModuleManager: Shutting down and abandoning module GitSourceControl (86)
+[2015.04.08-20.09.37:102][571]LogModuleManager: Shutting down and abandoning module BlankPlugin (85)
+[2015.04.08-20.09.37:102][571]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (84)
+[2015.04.08-20.09.37:102][571]LogModuleManager: Shutting down and abandoning module PaperJsonImporter (83)
+[2015.04.08-20.09.37:103][571]LogModuleManager: Shutting down and abandoning module ContentBrowser (82)
+[2015.04.08-20.09.37:104][571]LogModuleManager: Shutting down and abandoning module Paper2DEditor (81)
+[2015.04.08-20.09.37:104][571]LogModuleManager: Shutting down and abandoning module ScriptPlugin (80)
+[2015.04.08-20.09.37:104][571]LogModuleManager: Shutting down and abandoning module UdpMessaging (79)
+[2015.04.08-20.09.37:206][571]LogModuleManager: Shutting down and abandoning module Paper2D (78)
+[2015.04.08-20.09.37:206][571]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (77)
+[2015.04.08-20.09.37:214][571]LogModuleManager: Shutting down and abandoning module Media (76)
+[2015.04.08-20.09.37:214][571]LogModuleManager: Shutting down and abandoning module WmfMedia (75)
+[2015.04.08-20.09.37:215][571]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2015.04.08-20.09.37:215][571]LogModuleManager: Shutting down and abandoning module PropertyEditor (73)
+[2015.04.08-20.09.37:215][571]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (72)
+[2015.04.08-20.09.37:215][571]LogModuleManager: Shutting down and abandoning module FunctionalTesting (71)
+[2015.04.08-20.09.37:215][571]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (70)
+[2015.04.08-20.09.37:215][571]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (69)
+[2015.04.08-20.09.37:215][571]LogModuleManager: Shutting down and abandoning module MessageLog (68)
+[2015.04.08-20.09.37:215][571]LogModuleManager: Shutting down and abandoning module Sequencer (67)
+[2015.04.08-20.09.37:215][571]LogModuleManager: Shutting down and abandoning module AssetTools (66)
+[2015.04.08-20.09.37:215][571]LogModuleManager: Shutting down and abandoning module UMGEditor (65)
+[2015.04.08-20.09.37:215][571]LogModuleManager: Shutting down and abandoning module UMG (64)
+[2015.04.08-20.09.37:216][571]LogModuleManager: Shutting down and abandoning module Slate (63)
+[2015.04.08-20.09.37:216][571]LogModuleManager: Shutting down and abandoning module EditorStyle (62)
+[2015.04.08-20.09.37:228][571]LogModuleManager: Shutting down and abandoning module SessionServices (61)
+[2015.04.08-20.09.37:228][571]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (60)
+[2015.04.08-20.09.37:228][571]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (59)
+[2015.04.08-20.09.37:228][571]LogModuleManager: Shutting down and abandoning module XAudio2 (58)
+[2015.04.08-20.09.37:228][571]LogModuleManager: Shutting down and abandoning module Networking (56)
+[2015.04.08-20.09.37:228][571]LogModuleManager: Shutting down and abandoning module Core (55)
+[2015.04.08-20.09.37:228][571]LogModuleManager: Shutting down and abandoning module KismetCompiler (54)
+[2015.04.08-20.09.37:228][571]LogModuleManager: Shutting down and abandoning module PhysXFormats (53)
+[2015.04.08-20.09.37:228][571]LogModuleManager: Shutting down and abandoning module MeshUtilities (52)
+[2015.04.08-20.09.37:228][571]LogModuleManager: Shutting down and abandoning module DerivedDataCache (51)
+[2015.04.08-20.09.37:262][571]LogDerivedDataCache: Shutdown
+[2015.04.08-20.09.37:262][571]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (50)
+[2015.04.08-20.09.37:262][571]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (49)
+[2015.04.08-20.09.37:262][571]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (48)
+[2015.04.08-20.09.37:262][571]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (47)
+[2015.04.08-20.09.37:262][571]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (46)
+[2015.04.08-20.09.37:262][571]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (45)
+[2015.04.08-20.09.37:262][571]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (44)
+[2015.04.08-20.09.37:262][571]LogModuleManager: Shutting down and abandoning module ImageWrapper (43)
+[2015.04.08-20.09.37:262][571]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (42)
+[2015.04.08-20.09.37:262][571]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (41)
+[2015.04.08-20.09.37:262][571]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (40)
+[2015.04.08-20.09.37:262][571]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (39)
+[2015.04.08-20.09.37:262][571]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (38)
+[2015.04.08-20.09.37:262][571]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (37)
+[2015.04.08-20.09.37:262][571]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (36)
+[2015.04.08-20.09.37:262][571]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (35)
+[2015.04.08-20.09.37:263][571]LogModuleManager: Shutting down and abandoning module Messaging (34)
+[2015.04.08-20.09.37:263][571]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (33)
+[2015.04.08-20.09.37:263][571]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (32)
+[2015.04.08-20.09.37:263][571]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (31)
+[2015.04.08-20.09.37:263][571]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (30)
+[2015.04.08-20.09.37:263][571]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (29)
+[2015.04.08-20.09.37:263][571]LogModuleManager: Shutting down and abandoning module Android_ES31TargetPlatform (28)
+[2015.04.08-20.09.37:263][571]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (27)
+[2015.04.08-20.09.37:263][571]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (26)
+[2015.04.08-20.09.37:263][571]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (25)
+[2015.04.08-20.09.37:263][571]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (24)
+[2015.04.08-20.09.37:263][571]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (23)
+[2015.04.08-20.09.37:263][571]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (22)
+[2015.04.08-20.09.37:263][571]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (21)
+[2015.04.08-20.09.37:263][571]LogModuleManager: Shutting down and abandoning module TargetPlatform (20)
+[2015.04.08-20.09.37:263][571]LogModuleManager: Shutting down and abandoning module InputCore (19)
+[2015.04.08-20.09.37:263][571]LogModuleManager: Shutting down and abandoning module Settings (18)
+[2015.04.08-20.09.37:264][571]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (16)
+[2015.04.08-20.09.37:264][571]LogModuleManager: Shutting down and abandoning module OculusRift (15)
+[2015.04.08-20.09.37:264][571]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (14)
+[2015.04.08-20.09.37:264][571]LogModuleManager: Shutting down and abandoning module TextureCompressor (13)
+[2015.04.08-20.09.37:264][571]LogModuleManager: Shutting down and abandoning module ShaderCore (12)
+[2015.04.08-20.09.37:264][571]LogModuleManager: Shutting down and abandoning module Landscape (11)
+[2015.04.08-20.09.37:264][571]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (10)
+[2015.04.08-20.09.37:272][571]LogModuleManager: Shutting down and abandoning module OpenGLDrv (9)
+[2015.04.08-20.09.37:272][571]LogModuleManager: Shutting down and abandoning module D3D11RHI (8)
+[2015.04.08-20.09.37:272][571]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2015.04.08-20.09.37:272][571]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2015.04.08-20.09.37:272][571]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2015.04.08-20.09.37:272][571]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2015.04.08-20.09.37:272][571]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2015.04.08-20.09.37:272][571]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2015.04.08-20.09.37:273][571]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2015.04.08-20.09.37:275][571]LogExit: Exiting.
+[2015.04.08-20.09.37:328][571]Log file closed, 04/08/15 22:09:37
