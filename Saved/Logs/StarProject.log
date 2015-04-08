@@ -503,4 +503,508 @@ Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en
 [2015.04.08-19.43.09:516][412]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ODST5CF9ECC642BD3A03C59AFEAF901A77F2.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset'
 [2015.04.08-19.43.35:596][221]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/FXStarStarterKit'
 [2015.04.08-19.43.36:611][342]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
-[2015.04.08-19.43.37:061][396]LogCont
+[2015.04.08-19.43.37:061][396]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Audio'
+[2015.04.08-19.43.37:457][437]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Architecture'
+[2015.04.08-19.43.38:119][512]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Animations'
+[2015.04.08-19.43.40:630][813]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/ODSTCharacter'
+[2015.04.08-19.43.56:354][212]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/FXStarStarterKit'
+[2015.04.08-19.44.11:124][810]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/AnimStarterPack'
+[2015.04.08-19.48.15:043][797]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000028079BA7A0
+[2015.04.08-19.48.15:043][797]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000028079B8CC0
+[2015.04.08-19.48.15:043][797]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.011
+[2015.04.08-19.48.15:096][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ODSTCharacter/_3___Defaultmat] ([1] browsable assets)...
+[2015.04.08-19.48.15:163][797]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ODSTCharacter/_3___Defaultmat._3___Defaultmat]
+[2015.04.08-19.48.15:163][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODSTCharacter/_3___Defaultmat]
+[2015.04.08-19.48.15:474][797]LogSavePackage: Save=308.481232ms
+[2015.04.08-19.48.15:474][797]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/_3___Defaultmat_Auto1696273544AE5B5E9AE6D78BAEE3ECD86.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/_3___Defaultmat_Auto1.uasset'
+[2015.04.08-19.48.15:524][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ODSTCharacter/odst_helmet_diffuse] ([1] browsable assets)...
+[2015.04.08-19.48.15:584][797]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ODSTCharacter/odst_helmet_diffuse.odst_helmet_diffuse]
+[2015.04.08-19.48.15:584][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODSTCharacter/odst_helmet_diffuse]
+[2015.04.08-19.48.16:029][797]LogSavePackage: Save=441.823883ms
+[2015.04.08-19.48.16:030][797]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/odst_helmet_diffuse_Auto119EF51644DDB359A49CECB84739DB2AE.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/odst_helmet_diffuse_Auto1.uasset'
+[2015.04.08-19.48.16:075][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ODSTCharacter/odst_helmet_zbump] ([1] browsable assets)...
+[2015.04.08-19.48.16:107][797]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ODSTCharacter/odst_helmet_zbump.odst_helmet_zbump]
+[2015.04.08-19.48.16:107][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODSTCharacter/odst_helmet_zbump]
+[2015.04.08-19.48.16:645][797]LogSavePackage: Save=530.841492ms
+[2015.04.08-19.48.16:645][797]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/odst_helmet_zbump_Auto1C69538194A34BAD7D21B5C9F6B642EB2.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/odst_helmet_zbump_Auto1.uasset'
+[2015.04.08-19.48.16:745][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ODSTCharacter/_2___Defaultmat] ([1] browsable assets)...
+[2015.04.08-19.48.16:797][797]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ODSTCharacter/_2___Defaultmat._2___Defaultmat]
+[2015.04.08-19.48.16:797][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODSTCharacter/_2___Defaultmat]
+[2015.04.08-19.48.17:080][797]LogSavePackage: Save=279.868103ms
+[2015.04.08-19.48.17:081][797]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/_2___Defaultmat_Auto15F077C3E438B0F2A1588A99E484800B9.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/_2___Defaultmat_Auto1.uasset'
+[2015.04.08-19.48.17:128][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ODSTCharacter/odst_body_diffuse] ([1] browsable assets)...
+[2015.04.08-19.48.17:154][797]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ODSTCharacter/odst_body_diffuse.odst_body_diffuse]
+[2015.04.08-19.48.17:154][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODSTCharacter/odst_body_diffuse]
+[2015.04.08-19.48.18:094][797]LogSavePackage: Save=935.482910ms
+[2015.04.08-19.48.18:095][797]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/odst_body_diffuse_Auto1F5DABD0448382C7935CF9AB31DBDE96C.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/odst_body_diffuse_Auto1.uasset'
+[2015.04.08-19.48.18:151][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ODSTCharacter/odst_body_zbump] ([1] browsable assets)...
+[2015.04.08-19.48.18:172][797]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ODSTCharacter/odst_body_zbump.odst_body_zbump]
+[2015.04.08-19.48.18:172][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODSTCharacter/odst_body_zbump]
+[2015.04.08-19.48.20:189][797]LogSavePackage: Save=2015.082153ms
+[2015.04.08-19.48.20:190][797]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/odst_body_zbump_Auto18F3E02D44FB84EDE16BA62A9B21282CF.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/odst_body_zbump_Auto1.uasset'
+[2015.04.08-19.48.20:235][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ODSTCharacter/Material__25mat] ([1] browsable assets)...
+[2015.04.08-19.48.20:303][797]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ODSTCharacter/Material__25mat.Material__25mat]
+[2015.04.08-19.48.20:303][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODSTCharacter/Material__25mat]
+[2015.04.08-19.48.20:637][797]LogSavePackage: Save=328.796753ms
+[2015.04.08-19.48.20:638][797]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Material__25mat_Auto199FFD48C4672A0EB5F7A1CA48886C6B1.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Material__25mat_Auto1.uasset'
+[2015.04.08-19.48.20:682][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ODSTCharacter/sarge_stripe_cc] ([1] browsable assets)...
+[2015.04.08-19.48.20:690][797]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ODSTCharacter/sarge_stripe_cc.sarge_stripe_cc]
+[2015.04.08-19.48.20:690][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODSTCharacter/sarge_stripe_cc]
+[2015.04.08-19.48.20:840][797]LogSavePackage: Save=145.970016ms
+[2015.04.08-19.48.20:841][797]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/sarge_stripe_cc_Auto12BA1C56D4CA037768698C5B7A2EA838E.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/sarge_stripe_cc_Auto1.uasset'
+[2015.04.08-19.48.20:884][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ODSTCharacter/ColorMaterial_57E15700_fxmat] ([1] browsable assets)...
+[2015.04.08-19.48.20:915][797]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ODSTCharacter/ColorMaterial_57E15700_fxmat.ColorMaterial_57E15700_fxmat]
+[2015.04.08-19.48.20:915][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODSTCharacter/ColorMaterial_57E15700_fxmat]
+[2015.04.08-19.48.21:439][797]LogSavePackage: Save=515.624023ms
+[2015.04.08-19.48.21:440][797]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ColorMaterial_57E15700_fxmat_Auto124FBDBB44313AF7A787AF2B0D472A6A9.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/ColorMaterial_57E15700_fxmat_Auto1.uasset'
+[2015.04.08-19.48.21:488][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ODSTCharacter/ColorMaterial_B1581B00_fxmat] ([1] browsable assets)...
+[2015.04.08-19.48.21:558][797]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ODSTCharacter/ColorMaterial_B1581B00_fxmat.ColorMaterial_B1581B00_fxmat]
+[2015.04.08-19.48.21:558][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODSTCharacter/ColorMaterial_B1581B00_fxmat]
+[2015.04.08-19.48.22:038][797]LogSavePackage: Save=475.762573ms
+[2015.04.08-19.48.22:039][797]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ColorMaterial_B1581B00_fxmat_Auto15C1386E04B1C1C5E12FAF2A038D6CC3F.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/ColorMaterial_B1581B00_fxmat_Auto1.uasset'
+[2015.04.08-19.48.22:083][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ODSTCharacter/_1___Defaultmat] ([1] browsable assets)...
+[2015.04.08-19.48.22:119][797]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ODSTCharacter/_1___Defaultmat._1___Defaultmat]
+[2015.04.08-19.48.22:119][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODSTCharacter/_1___Defaultmat]
+[2015.04.08-19.48.22:433][797]LogSavePackage: Save=306.228790ms
+[2015.04.08-19.48.22:433][797]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/_1___Defaultmat_Auto1CC0578E347344AAC2A0519A614881103.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/_1___Defaultmat_Auto1.uasset'
+[2015.04.08-19.48.22:480][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ODSTCharacter/badges_diffuse] ([1] browsable assets)...
+[2015.04.08-19.48.22:489][797]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ODSTCharacter/badges_diffuse.badges_diffuse]
+[2015.04.08-19.48.22:489][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODSTCharacter/badges_diffuse]
+[2015.04.08-19.48.22:674][797]LogSavePackage: Save=180.693146ms
+[2015.04.08-19.48.22:674][797]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/badges_diffuse_Auto154A2B56040579AD480189BB0C97CE185.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/badges_diffuse_Auto1.uasset'
+[2015.04.08-19.48.22:718][797]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ODSTCharacter/ODST_PhysicsAsset] ([1] browsable assets)...
+[2015.04.08-19.48.22:718][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODSTCharacter/ODST_PhysicsAsset]
+[2015.04.08-19.48.22:831][797]LogSavePackage: Save=109.094315ms
+[2015.04.08-19.48.22:831][797]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ODST_PhysicsAsset_Auto1869C9E9D4D11FE058D94419340395CC2.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/ODST_PhysicsAsset_Auto1.uasset'
+[2015.04.08-19.48.22:880][797]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ODSTCharacter/ODST_Skeleton] ([1] browsable assets)...
+[2015.04.08-19.48.22:880][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODSTCharacter/ODST_Skeleton]
+[2015.04.08-19.48.23:023][797]LogSavePackage: Save=109.137405ms
+[2015.04.08-19.48.23:024][797]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ODST_Skeleton_Auto1C3A45D7F4504F2E6F4F2C480F6EB9DA2.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/ODST_Skeleton_Auto1.uasset'
+[2015.04.08-19.48.23:029][797]LogFileHelpers: Auto-saving content packages took 7.986
+[2015.04.08-19.49.53:506][ 74]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Animations'
+[2015.04.08-19.49.54:729][212]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/AnimStarterPack'
+[2015.04.08-19.49.55:747][315]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Architecture'
+[2015.04.08-19.49.56:293][376]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/AnimStarterPack'
+[2015.04.08-19.49.59:052][679]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/ODSTCharacter'
+[2015.04.08-19.50.00:971][877]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2015.04.08-19.50.07:423][601]LogLinker:Warning: Asset '../../../Engine/Content/EngineMeshes/Humanoid.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2015.04.08-19.52.24:096][461]LogEditorTransaction: Undo Rotate Bone
+[2015.04.08-19.52.34:178][609]LogEditorTransaction: Undo Rotate Bone
+[2015.04.08-19.52.40:376][290]LogEditorTransaction: Undo Rotate Bone
+[2015.04.08-19.53.26:624][652]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/AnimStarterPack'
+[2015.04.08-19.53.28:023][792]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/AnimStarterPack/Character'
+[2015.04.08-19.53.34:420][514]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2015.04.08-19.53.55:787][915]LogBlueprint:Warning: [compiler] Warning InputAction Event references unknown Action 'Crouch' for  InputAction Crouch 
+[2015.04.08-19.53.55:796][915]LogBlueprint:Warning: [compiler] Warning [1092.57] Compile of ASP_Character successful, but with 1 Warning(s) [in 30 ms]
+[2015.04.08-19.53.55:796][915]LogBlueprint:Warning: [compiler] Warning [1092.57] Compile of ASP_Character successful, but with 2 Warning(s) [in 0 ms]
+[2015.04.08-19.53.55:796][915]LogBlueprint:Warning: [compiler] Warning [1092.57] Compile of ASP_Character successful, but with 3 Warning(s) [in 0 ms]
+[2015.04.08-19.53.55:796][915]LogBlueprint:Warning: [compiler] Warning [1092.57] Compile of ASP_Character successful, but with 4 Warning(s) [in 0 ms]
+[2015.04.08-19.53.56:110][915]LogBlueprint:Warning: [compiler] Warning InputAction Event references unknown Action 'Crouch' for  InputAction Crouch 
+[2015.04.08-19.53.56:119][915]LogBlueprint:Warning: [compiler] Warning [1092.90] Compile of ASP_Character successful, but with 1 Warning(s) [in 30 ms]
+[2015.04.08-19.53.56:119][915]LogBlueprint:Warning: [compiler] Warning [1092.90] Compile of ASP_Character successful, but with 2 Warning(s) [in 0 ms]
+[2015.04.08-19.54.24:721][721]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/ODSTCharacter'
+[2015.04.08-19.54.44:575][633]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2015.04.08-19.54.44:676][633]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2015.04.08-19.55.00:252][417]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/AnimStarterPack'
+[2015.04.08-19.55.30:949][  7]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/ODSTCharacter'
+[2015.04.08-19.55.48:021][197]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/ODSTCharacter'
+[2015.04.08-19.56.11:344][425]LogSavePackage: Save=259.796356ms
+[2015.04.08-19.56.11:344][425]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Walk_Rt_Rifle_Ironsights_Copy697E24954C85A3A8AA48DFA23B10C0FA.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Walk_Rt_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-19.56.11:631][425]LogSavePackage: Save=256.413116ms
+[2015.04.08-19.56.11:631][425]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Walk_Lt_Rifle_Ironsights_Copy740236404401D010DD763A984362E12E.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Walk_Lt_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-19.56.11:910][425]LogSavePackage: Save=253.832047ms
+[2015.04.08-19.56.11:910][425]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Walk_Fwd_Rifle_Ironsights_Copy268442F34B2206CA2B4706AE6B24322E.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Walk_Fwd_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-19.56.12:187][425]LogSavePackage: Save=256.487335ms
+[2015.04.08-19.56.12:187][425]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Walk_Bwd_Rifle_Ironsights_CopyF4BC23E34ABC0DACA49D4D80E3AF0BFF.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Walk_Bwd_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-19.56.12:208][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Animation/R_Jog_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset" SILENT=true
+[2015.04.08-19.56.12:462][425]LogSavePackage: Save=251.224045ms
+[2015.04.08-19.56.12:462][425]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/R_Jog_Copy9E8155904F15CB9CB25CA19C833000CC.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset'
+[2015.04.08-19.56.12:734][425]LogSavePackage: Save=249.160583ms
+[2015.04.08-19.56.12:734][425]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Pistol_CopyE8BA2739461F456562D0D092AC3B14CF.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Reload_Pistol_Copy.uasset'
+[2015.04.08-19.56.13:006][425]LogSavePackage: Save=249.877640ms
+[2015.04.08-19.56.13:006][425]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Rifle_Hip_Copy6B508A36404B5C48D1B0A4BADFC30949.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Reload_Rifle_Hip_Copy.uasset'
+[2015.04.08-19.56.13:275][425]LogSavePackage: Save=249.759811ms
+[2015.04.08-19.56.13:275][425]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Rifle_Ironsights_Copy34A2C82D4CB1EFF0E199428650B4AA29.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Reload_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-19.56.13:546][425]LogSavePackage: Save=251.083176ms
+[2015.04.08-19.56.13:546][425]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Shotgun_Hip_CopyC67589B64797FC828C7C758FD0108387.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Reload_Shotgun_Hip_Copy.uasset'
+[2015.04.08-19.56.13:808][425]LogSavePackage: Save=243.053024ms
+[2015.04.08-19.56.13:808][425]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Shotgun_Ironsights_CopyB96267E043BB18F12E6DF3875D318708.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Reload_Shotgun_Ironsights_Copy.uasset'
+[2015.04.08-19.56.13:879][425]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.04.08-19.56.14:176][425]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002819C2C4A0
+[2015.04.08-19.56.14:176][425]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002807D74FE0
+[2015.04.08-19.56.14:176][425]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000028529F5080
+[2015.04.08-19.56.14:176][425]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000028529F4860
+[2015.04.08-19.56.14:177][425]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000284E2B84A0
+[2015.04.08-19.56.14:177][425]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000284E2BB240
+[2015.04.08-19.56.14:178][425]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000280D636DE0
+[2015.04.08-19.56.14:178][425]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000280D635580
+[2015.04.08-19.56.14:179][425]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000002819DEB6A0
+[2015.04.08-19.56.14:179][425]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000280D560F40
+[2015.04.08-19.56.14:179][425]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000281C20BD80
+[2015.04.08-19.56.14:179][425]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000281C20A700
+[2015.04.08-19.56.26:383][553]LogSavePackage: Save=269.772827ms
+[2015.04.08-19.56.26:383][553]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Stand_To_Prone_Copy6BC7E7B24800AEDCA42E3A97848655DC.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Stand_To_Prone_Copy.uasset'
+[2015.04.08-19.56.26:649][553]LogSavePackage: Save=247.683929ms
+[2015.04.08-19.56.26:649][553]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Stand_to_Crouch_Rifle_Ironsights_Copy053618D442040980D2CF1B875559139F.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Stand_to_Crouch_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-19.56.26:908][553]LogSavePackage: Save=239.382935ms
+[2015.04.08-19.56.26:908][553]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Stand_to_Crouch_Rifle_Hip_Copy803EB88D4B83F0B990D9479B844CC41E.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Stand_to_Crouch_Rifle_Hip_Copy.uasset'
+[2015.04.08-19.56.27:185][553]LogSavePackage: Save=258.389069ms
+[2015.04.08-19.56.27:185][553]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Sprint_Fwd_Rifle_Copy786F98D14EA0D440092114A6C703F99B.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Sprint_Fwd_Rifle_Copy.uasset'
+[2015.04.08-19.56.27:476][553]LogSavePackage: Save=273.056213ms
+[2015.04.08-19.56.27:476][553]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Death_1_Copy122C230645800D97B0B702BFF55847D2.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Death_1_Copy.uasset'
+[2015.04.08-19.56.27:763][553]LogSavePackage: Save=267.315674ms
+[2015.04.08-19.56.27:763][553]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Fire_1_CopyBD5B6C5B42CD753A6E2FF98578E4A9CC.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Fire_1_Copy.uasset'
+[2015.04.08-19.56.28:075][553]LogSavePackage: Save=276.989960ms
+[2015.04.08-19.56.28:075][553]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Death_2_CopyD4BBD90A47F7BE6FB2C685958C188BFC.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Death_2_Copy.uasset'
+[2015.04.08-19.56.28:364][553]LogSavePackage: Save=270.634399ms
+[2015.04.08-19.56.28:364][553]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Fire_2_Copy6E923A244E6986672C1038ABEA0FD7B0.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Fire_2_Copy.uasset'
+[2015.04.08-19.56.28:654][553]LogSavePackage: Save=270.503448ms
+[2015.04.08-19.56.28:654][553]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Idle_CopyB0E90FB54DA7F616AB81AB94B7926E3D.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Idle_Copy.uasset'
+[2015.04.08-19.56.28:933][553]LogSavePackage: Save=259.203613ms
+[2015.04.08-19.56.28:933][553]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Reload_Rifle_CopyC8BFDA5B4A95BD90CBEAAFB797BE467C.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Reload_Rifle_Copy.uasset'
+[2015.04.08-19.56.29:211][553]LogSavePackage: Save=259.961456ms
+[2015.04.08-19.56.29:211][553]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Reload_Shotgun_Copy373A816B4C726243F0C6F28DF1D9C62C.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_Reload_Shotgun_Copy.uasset'
+[2015.04.08-19.56.29:483][553]LogSavePackage: Save=250.940414ms
+[2015.04.08-19.56.29:483][553]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_To_Stand_Copy5AAD51EC4B29BC02F12638BC78400688.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Prone_To_Stand_Copy.uasset'
+[2015.04.08-19.56.29:736][553]LogSavePackage: Save=234.173553ms
+[2015.04.08-19.56.29:736][553]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/R_CrouchWalk_Copy645807C14F43A156F2F67F9C3119EB9B.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_CrouchWalk_Copy.uasset'
+[2015.04.08-19.56.59:264][652]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/Jog_Bwd_Rifle_Copy'
+[2015.04.08-19.56.59:264][652]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/Jog_Bwd_Rifle_Copy' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset.
+[2015.04.08-19.56.59:264][652]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/R_Jog_Copy : Can't find file for asset. /Game/ODSTCharacter/Jog_Bwd_Rifle_Copy
+[2015.04.08-19.56.59:265][652]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/Jog_Fwd_Rifle_Copy'
+[2015.04.08-19.56.59:265][652]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/Jog_Fwd_Rifle_Copy' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset.
+[2015.04.08-19.56.59:265][652]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/R_Jog_Copy : Can't find file for asset. /Game/ODSTCharacter/Jog_Fwd_Rifle_Copy
+[2015.04.08-19.56.59:265][652]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/Jog_Lt_Rifle_Copy'
+[2015.04.08-19.56.59:265][652]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/Jog_Lt_Rifle_Copy' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset.
+[2015.04.08-19.56.59:265][652]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/R_Jog_Copy : Can't find file for asset. /Game/ODSTCharacter/Jog_Lt_Rifle_Copy
+[2015.04.08-19.56.59:265][652]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/Jog_Rt_Rifle_Copy'
+[2015.04.08-19.56.59:265][652]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/Jog_Rt_Rifle_Copy' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset.
+[2015.04.08-19.56.59:265][652]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/R_Jog_Copy : Can't find file for asset. /Game/ODSTCharacter/Jog_Rt_Rifle_Copy
+[2015.04.08-19.56.59:266][652]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/Jog_Bwd_Rifle_Copy'
+[2015.04.08-19.56.59:266][652]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/Jog_Bwd_Rifle_Copy' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset.
+[2015.04.08-19.56.59:266][652]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/Jog_Fwd_Rifle_Copy'
+[2015.04.08-19.56.59:266][652]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/Jog_Fwd_Rifle_Copy' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset.
+[2015.04.08-19.56.59:266][652]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/Jog_Lt_Rifle_Copy'
+[2015.04.08-19.56.59:267][652]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/Jog_Lt_Rifle_Copy' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset.
+[2015.04.08-19.56.59:267][652]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/Jog_Rt_Rifle_Copy'
+[2015.04.08-19.56.59:267][652]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/Jog_Rt_Rifle_Copy' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset.
+[2015.04.08-19.56.59:267][652]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-19.56.59:267][652]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset.
+[2015.04.08-19.56.59:267][652]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/R_Jog_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-19.56.59:267][652]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-19.56.59:268][652]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset.
+[2015.04.08-19.56.59:802][652]LogSavePackage: Save=265.547150ms
+[2015.04.08-19.56.59:802][652]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Rifle_Hip_Copy8AB995614C3F96503B7BD98E4F09157A.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Rifle_Hip_Copy.uasset'
+[2015.04.08-19.57.00:062][652]LogSavePackage: Save=241.665421ms
+[2015.04.08-19.57.00:062][652]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Rifle_Hip_Copy2504B4F1D4165103C04DDE0ADCC63E0A3.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Rifle_Hip_Copy2.uasset'
+[2015.04.08-19.57.00:337][652]LogSavePackage: Save=257.583435ms
+[2015.04.08-19.57.00:337][652]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Rifle_Ironsights_CopyEAC9DF1D4D0D3840B1C16D9B50F124BD.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-19.57.00:612][652]LogSavePackage: Save=245.958847ms
+[2015.04.08-19.57.00:612][652]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Bwd_Rifle_Copy9678AC374E49F2C60C4DCCAED3132022.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Bwd_Rifle_Copy.uasset'
+[2015.04.08-19.57.00:880][652]LogSavePackage: Save=250.763092ms
+[2015.04.08-19.57.00:880][652]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Bwd_Rifle_Copy21AF493284F31509DA1FA8E88BC0CFF55.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Bwd_Rifle_Copy2.uasset'
+[2015.04.08-19.57.01:157][652]LogSavePackage: Save=257.001526ms
+[2015.04.08-19.57.01:157][652]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Fwd_Rifle_CopyA7F4E7404CC0FF529645BDACDFF1F913.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Fwd_Rifle_Copy.uasset'
+[2015.04.08-19.57.01:430][652]LogSavePackage: Save=253.822418ms
+[2015.04.08-19.57.01:430][652]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Fwd_Rifle_Copy2C0C2037C4652BAD2722830A7E80D005C.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Fwd_Rifle_Copy2.uasset'
+[2015.04.08-19.57.01:688][652]LogSavePackage: Save=240.032455ms
+[2015.04.08-19.57.01:688][652]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Lt_Rifle_CopyDC67D08047FA687DA82FFA97DD776768.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Lt_Rifle_Copy.uasset'
+[2015.04.08-19.57.01:953][652]LogSavePackage: Save=244.547562ms
+[2015.04.08-19.57.01:953][652]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Lt_Rifle_Copy21ACAC6A94122F031666AE0995499376A.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Lt_Rifle_Copy2.uasset'
+[2015.04.08-19.57.02:221][652]LogSavePackage: Save=246.795609ms
+[2015.04.08-19.57.02:221][652]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Rt_Rifle_CopyB5A3FC404227A610F2B32A88B6E6BCBE.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Rt_Rifle_Copy.uasset'
+[2015.04.08-19.57.02:485][652]LogSavePackage: Save=245.508362ms
+[2015.04.08-19.57.02:485][652]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Rt_Rifle_Copy27041193340873C883588CCB723F749B8.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jog_Rt_Rifle_Copy2.uasset'
+[2015.04.08-19.57.02:760][652]LogSavePackage: Save=255.997482ms
+[2015.04.08-19.57.02:760][652]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jump_From_Jog_CopyBA4AFB1F47A8DBAFEA4CF2BF4D402C13.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jump_From_Jog_Copy.uasset'
+[2015.04.08-19.57.03:043][652]LogSavePackage: Save=264.352325ms
+[2015.04.08-19.57.03:043][652]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jump_From_Jog_Copy2986B49BB44266B890B1471A60428DA35.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jump_From_Jog_Copy2.uasset'
+[2015.04.08-19.57.03:316][652]LogSavePackage: Save=252.460510ms
+[2015.04.08-19.57.03:316][652]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jump_From_Stand_Copy7609F8BB4EF0A4F972796496E840048A.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jump_From_Stand_Copy.uasset'
+[2015.04.08-19.57.03:592][652]LogSavePackage: Save=255.459976ms
+[2015.04.08-19.57.03:592][652]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jump_From_Stand_Copy2FC55D928484CC810C7B2FD9A8F2554B9.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jump_From_Stand_Copy2.uasset'
+[2015.04.08-19.57.03:861][652]LogSavePackage: Save=250.758408ms
+[2015.04.08-19.57.03:861][652]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jump_From_Stand_Ironsights_CopyB78F02FC4D248F695141E19846838A01.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Jump_From_Stand_Ironsights_Copy.uasset'
+[2015.04.08-19.57.04:281][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Animation/R_Jog_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset" SILENT=true
+[2015.04.08-19.57.04:292][652]LogSavePackage: Save=3.782324ms
+[2015.04.08-19.57.04:292][652]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/R_Jog_Copy137587E74BB24E6078ECCFB84AAD65DD.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset'
+[2015.04.08-19.57.04:297][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Animation/R_Jog_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset" SILENT=true
+[2015.04.08-19.57.04:306][652]LogSavePackage: Save=4.070909ms
+[2015.04.08-19.57.04:306][652]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/R_Jog_Copy2607905248336702D4C44FAD9185F1E8.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset'
+[2015.04.08-19.57.04:310][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Animation/R_Jog_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset" SILENT=true
+[2015.04.08-19.57.04:319][652]LogSavePackage: Save=4.207937ms
+[2015.04.08-19.57.04:319][652]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/R_Jog_Copy5FD2C47D4E36BF6DF59E64A4FE61B6FA.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset'
+[2015.04.08-19.57.04:324][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Animation/R_Jog_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset" SILENT=true
+[2015.04.08-19.57.04:332][652]LogSavePackage: Save=4.120705ms
+[2015.04.08-19.57.04:332][652]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/R_Jog_CopyA1AD8B22471DB9F442A60B955077C685.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_Jog_Copy.uasset'
+[2015.04.08-19.57.14:853][390]LogSavePackage: Save=242.935272ms
+[2015.04.08-19.57.14:853][390]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Fire_Rifle_Hip_Copy60F162864E38CC852053DDB5BE423C7E.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Fire_Rifle_Hip_Copy.uasset'
+[2015.04.08-19.57.15:112][390]LogSavePackage: Save=240.124649ms
+[2015.04.08-19.57.15:112][390]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Fire_Shotgun_Hip_Copy79BC135548896DAF4DDE37BD727E3C5C.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Fire_Shotgun_Hip_Copy.uasset'
+[2015.04.08-19.57.15:383][390]LogSavePackage: Save=253.916000ms
+[2015.04.08-19.57.15:383][390]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Fire_Shotgun_Ironsights_CopyD8F7A5E44D12FE7669FED5AB4E41A2D7.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Fire_Shotgun_Ironsights_Copy.uasset'
+[2015.04.08-19.57.15:646][390]LogSavePackage: Save=246.440613ms
+[2015.04.08-19.57.15:646][390]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Hit_React_1_CopyAFDDDF224C60CEA45F979FA4A2007806.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Hit_React_1_Copy.uasset'
+[2015.04.08-19.57.15:906][390]LogSavePackage: Save=241.191757ms
+[2015.04.08-19.57.15:906][390]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Hit_React_2_CopyD88DC0244FF23A4A254649A3CF590CC6.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Hit_React_2_Copy.uasset'
+[2015.04.08-19.57.16:179][390]LogSavePackage: Save=240.641342ms
+[2015.04.08-19.57.16:179][390]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Hit_React_3_Copy7A211E5D433A7A6A331467BDB69BA203.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Hit_React_3_Copy.uasset'
+[2015.04.08-19.57.16:443][390]LogSavePackage: Save=245.239685ms
+[2015.04.08-19.57.16:443][390]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Hit_React_4_Copy26ED370C43A8EA6FE9CE1E858FF0E59C.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Hit_React_4_Copy.uasset'
+[2015.04.08-19.57.16:712][390]LogSavePackage: Save=249.048477ms
+[2015.04.08-19.57.16:712][390]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Pistol_CopyF0BFA53845FE9DDCD99BE08747B80931.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Pistol_Copy.uasset'
+[2015.04.08-19.57.16:971][390]LogSavePackage: Save=239.493637ms
+[2015.04.08-19.57.16:971][390]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Rifle_Hip_Break1_CopyECEFE2714629CDFE447B4EA9019A8C3D.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Rifle_Hip_Break1_Copy.uasset'
+[2015.04.08-19.57.17:237][390]LogSavePackage: Save=245.842773ms
+[2015.04.08-19.57.17:237][390]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Rifle_Hip_Break2_Copy6F54FC3A43FEEDDFBD94A4AEE7B290A0.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Idle_Rifle_Hip_Break2_Copy.uasset'
+[2015.04.08-19.57.17:513][390]LogSavePackage: Save=257.702240ms
+[2015.04.08-19.57.17:513][390]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Fire_Rifle_Ironsights_Copy46D2F28E4E798CAA8B14C8A02FB8E49D.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Fire_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-19.57.31:614][729]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/Crouch_Walk_Bwd_Rifle_Hip_Copy'
+[2015.04.08-19.57.31:614][729]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/Crouch_Walk_Bwd_Rifle_Hip_Copy' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_CrouchWalk_Copy.uasset.
+[2015.04.08-19.57.31:614][729]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/R_CrouchWalk_Copy : Can't find file for asset. /Game/ODSTCharacter/Crouch_Walk_Bwd_Rifle_Hip_Copy
+[2015.04.08-19.57.31:614][729]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/Crouch_Walk_Fwd_Rifle_Hip_Copy'
+[2015.04.08-19.57.31:615][729]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/Crouch_Walk_Fwd_Rifle_Hip_Copy' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_CrouchWalk_Copy.uasset.
+[2015.04.08-19.57.31:615][729]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/R_CrouchWalk_Copy : Can't find file for asset. /Game/ODSTCharacter/Crouch_Walk_Fwd_Rifle_Hip_Copy
+[2015.04.08-19.57.31:615][729]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/Crouch_Walk_Lt_Rifle_Hip_Copy'
+[2015.04.08-19.57.31:615][729]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/Crouch_Walk_Lt_Rifle_Hip_Copy' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_CrouchWalk_Copy.uasset.
+[2015.04.08-19.57.31:615][729]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/R_CrouchWalk_Copy : Can't find file for asset. /Game/ODSTCharacter/Crouch_Walk_Lt_Rifle_Hip_Copy
+[2015.04.08-19.57.31:615][729]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/Crouch_Walk_Rt_Rifle_Hip_Copy'
+[2015.04.08-19.57.31:615][729]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/Crouch_Walk_Rt_Rifle_Hip_Copy' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_CrouchWalk_Copy.uasset.
+[2015.04.08-19.57.31:615][729]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/R_CrouchWalk_Copy : Can't find file for asset. /Game/ODSTCharacter/Crouch_Walk_Rt_Rifle_Hip_Copy
+[2015.04.08-19.57.31:616][729]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/Crouch_Walk_Bwd_Rifle_Hip_Copy'
+[2015.04.08-19.57.31:616][729]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/Crouch_Walk_Bwd_Rifle_Hip_Copy' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_CrouchWalk_Copy.uasset.
+[2015.04.08-19.57.31:616][729]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/Crouch_Walk_Fwd_Rifle_Hip_Copy'
+[2015.04.08-19.57.31:616][729]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/Crouch_Walk_Fwd_Rifle_Hip_Copy' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_CrouchWalk_Copy.uasset.
+[2015.04.08-19.57.31:616][729]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/Crouch_Walk_Lt_Rifle_Hip_Copy'
+[2015.04.08-19.57.31:616][729]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/Crouch_Walk_Lt_Rifle_Hip_Copy' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_CrouchWalk_Copy.uasset.
+[2015.04.08-19.57.31:617][729]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/Crouch_Walk_Rt_Rifle_Hip_Copy'
+[2015.04.08-19.57.31:617][729]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/Crouch_Walk_Rt_Rifle_Hip_Copy' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_CrouchWalk_Copy.uasset.
+[2015.04.08-19.57.31:617][729]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-19.57.31:617][729]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_CrouchWalk_Copy.uasset.
+[2015.04.08-19.57.31:617][729]LoadErrors:Error: Error /Game/ODSTCharacter/Animation/R_CrouchWalk_Copy : Can't find file for asset. /Game/ODSTCharacter/ODST_Skeleton
+[2015.04.08-19.57.31:617][729]LogLinker:Warning: Can't find file '/Game/ODSTCharacter/ODST_Skeleton'
+[2015.04.08-19.57.31:618][729]LogLinker:Warning: Can't find file for asset '/Game/ODSTCharacter/ODST_Skeleton' while loading ../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_CrouchWalk_Copy.uasset.
+[2015.04.08-19.57.32:189][729]LogSavePackage: Save=242.222824ms
+[2015.04.08-19.57.32:189][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Idle_Rifle_Ironsights_Copy262A4570418B5D6F0FAECE82ABFF53F5.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Idle_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-19.57.32:450][729]LogSavePackage: Save=242.677917ms
+[2015.04.08-19.57.32:450][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_to_Stand_Rifle_Hip_CopyB37FE58F4C73B4130BBD61A1C90BE245.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_to_Stand_Rifle_Hip_Copy.uasset'
+[2015.04.08-19.57.32:719][729]LogSavePackage: Save=250.260788ms
+[2015.04.08-19.57.32:719][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_to_Stand_Rifle_Ironsights_CopyDC6FA67D40AAC3DCC29DB2BB8967A7D6.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_to_Stand_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-19.57.32:975][729]LogSavePackage: Save=238.020203ms
+[2015.04.08-19.57.32:975][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Bwd_Rifle_Hip_CopyE61A563948BB82B6C1AD53B70E8EB94B.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Bwd_Rifle_Hip_Copy.uasset'
+[2015.04.08-19.57.33:234][729]LogSavePackage: Save=238.446304ms
+[2015.04.08-19.57.33:234][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Bwd_Rifle_Hip_Copy2471AAF7C41F8F92B6C2D9D83692B4057.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Bwd_Rifle_Hip_Copy2.uasset'
+[2015.04.08-19.57.33:503][729]LogSavePackage: Save=248.888550ms
+[2015.04.08-19.57.33:503][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Bwd_Rifle_Ironsights_Copy5896941046E271174CDFB4B18E8390C5.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Bwd_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-19.57.33:760][729]LogSavePackage: Save=237.345322ms
+[2015.04.08-19.57.33:760][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Fwd_Rifle_Hip_CopyD6A0DDCF4C08DF5CE11CFD9DD3E42706.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Fwd_Rifle_Hip_Copy.uasset'
+[2015.04.08-19.57.34:015][729]LogSavePackage: Save=236.225479ms
+[2015.04.08-19.57.34:015][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Fwd_Rifle_Hip_Copy2A2B23C49453068CB3E4E3D85E5F9CE62.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Fwd_Rifle_Hip_Copy2.uasset'
+[2015.04.08-19.57.34:268][729]LogSavePackage: Save=233.750031ms
+[2015.04.08-19.57.34:268][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Fwd_Rifle_Ironsights_CopyB3581241425FB38CB666ACAC933FFCEF.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Fwd_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-19.57.34:524][729]LogSavePackage: Save=238.531921ms
+[2015.04.08-19.57.34:524][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Lt_Rifle_Hip_CopyDD576EC8410DA9E49349E89DAF9B0D53.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Lt_Rifle_Hip_Copy.uasset'
+[2015.04.08-19.57.34:781][729]LogSavePackage: Save=236.934097ms
+[2015.04.08-19.57.34:782][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Lt_Rifle_Hip_Copy21526ECC34916EFA443DA438F194EAD5E.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Lt_Rifle_Hip_Copy2.uasset'
+[2015.04.08-19.57.35:051][729]LogSavePackage: Save=250.624176ms
+[2015.04.08-19.57.35:051][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Lt_Rifle_Ironsights_Copy6C2B2E33419DF7E9AB0512B3B4330877.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Lt_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-19.57.35:306][729]LogSavePackage: Save=235.234436ms
+[2015.04.08-19.57.35:306][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Rt_Rifle_Hip_Copy740091BD4DA4C13D7BAB4C9117FD1001.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Rt_Rifle_Hip_Copy.uasset'
+[2015.04.08-19.57.35:562][729]LogSavePackage: Save=235.638885ms
+[2015.04.08-19.57.35:562][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Rt_Rifle_Hip_Copy2B9F9D6AC4CBCC3AC08718CAF400C8572.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Rt_Rifle_Hip_Copy2.uasset'
+[2015.04.08-19.57.35:830][729]LogSavePackage: Save=248.315918ms
+[2015.04.08-19.57.35:830][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Rt_Rifle_Ironsights_Copy98BF84C54729ECC0D1CCBBB32AA0E4D4.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Walk_Rt_Rifle_Ironsights_Copy.uasset'
+[2015.04.08-19.57.35:847][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Animation/Death_1_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_1_Copy.uasset" SILENT=true
+[2015.04.08-19.57.36:106][729]LogSavePackage: Save=256.505005ms
+[2015.04.08-19.57.36:106][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Death_1_Copy7074468144C0C3FB71CE35A26AE9C075.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_1_Copy.uasset'
+[2015.04.08-19.57.36:122][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Animation/Death_2_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_2_Copy.uasset" SILENT=true
+[2015.04.08-19.57.36:395][729]LogSavePackage: Save=271.280273ms
+[2015.04.08-19.57.36:395][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Death_2_Copy7C3A1BE5489A7215C5EBDEB70EB2B011.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_2_Copy.uasset'
+[2015.04.08-19.57.36:412][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/Animation/Death_3_Copy" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_3_Copy.uasset" SILENT=true
+[2015.04.08-19.57.36:674][729]LogSavePackage: Save=260.511749ms
+[2015.04.08-19.57.36:674][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Death_3_Copy331BC4D04D4775D362798C8ABBEC94B7.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_3_Copy.uasset'
+[2015.04.08-19.57.36:954][729]LogSavePackage: Save=260.128815ms
+[2015.04.08-19.57.36:954][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Death_Ironsights_1_Copy5B520CB248D0585454A01ABEE0D839F1.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_Ironsights_1_Copy.uasset'
+[2015.04.08-19.57.37:241][729]LogSavePackage: Save=266.900818ms
+[2015.04.08-19.57.37:241][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Death_Ironsights_2_CopyDF209EE747AD185911828BA5B47FD8BC.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Death_Ironsights_2_Copy.uasset'
+[2015.04.08-19.57.37:520][729]LogSavePackage: Save=252.467834ms
+[2015.04.08-19.57.37:520][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Equip_Pistol_Standing_Copy61E06E3B4E84CBEEE31E029FB4C914B6.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Equip_Pistol_Standing_Copy.uasset'
+[2015.04.08-19.57.37:789][729]LogSavePackage: Save=250.999710ms
+[2015.04.08-19.57.37:789][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Equip_Rifle_Standing_Copy3167D3BC46C70BA7D5FB9CAB95F3033C.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Equip_Rifle_Standing_Copy.uasset'
+[2015.04.08-19.57.38:308][729]LogSavePackage: Save=5.449436ms
+[2015.04.08-19.57.38:308][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/R_CrouchWalk_Copy04B9D6C643C1221235CEF5BA3DD973D4.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_CrouchWalk_Copy.uasset'
+[2015.04.08-19.57.38:321][729]LogSavePackage: Save=3.518743ms
+[2015.04.08-19.57.38:321][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/R_CrouchWalk_CopyE153E54045E3AA02C03A1C8D2CC6235D.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_CrouchWalk_Copy.uasset'
+[2015.04.08-19.57.38:334][729]LogSavePackage: Save=3.595220ms
+[2015.04.08-19.57.38:334][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/R_CrouchWalk_Copy3F28FFD844F499CB4FCA8A904B33C0C6.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_CrouchWalk_Copy.uasset'
+[2015.04.08-19.57.38:347][729]LogSavePackage: Save=3.516159ms
+[2015.04.08-19.57.38:347][729]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/R_CrouchWalk_Copy0BA107024F259802C17506AAB3E54E37.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/R_CrouchWalk_Copy.uasset'
+[2015.04.08-19.57.53:012][156]LogSavePackage: Save=256.489380ms
+[2015.04.08-19.57.53:012][156]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Idle_Rifle_Hip_CopyE02C08BE4908A1601B134B8DF292BE57.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Idle_Rifle_Hip_Copy.uasset'
+[2015.04.08-19.57.53:264][156]LogSavePackage: Save=233.527863ms
+[2015.04.08-19.57.53:264][156]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Idle_Rifle_Hip_Copy225D0D8FA4D72BAF6ED1B97BF57D89C9B.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Crouch_Idle_Rifle_Hip_Copy2.uasset'
+[2015.04.08-19.57.53:526][156]LogSavePackage: Save=243.422913ms
+[2015.04.08-19.57.53:526][156]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Aim_Space_Ironsights_Copy060F732049097556F8B2638555D7A339.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Aim_Space_Ironsights_Copy.uasset'
+[2015.04.08-19.57.53:788][156]LogSavePackage: Save=242.317947ms
+[2015.04.08-19.57.53:788][156]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Aim_Space_Hip_Copy7522BC9144A0286402A1009AC199509B.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/Animation/Aim_Space_Hip_Copy.uasset'
+[2015.04.08-19.58.23:628][853]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.011
+[2015.04.08-19.58.23:669][853]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ODSTCharacter/ODST] ([1] browsable assets)...
+[2015.04.08-19.58.23:696][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODSTCharacter/ODST]
+[2015.04.08-19.58.23:699][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/ODST" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/ODST_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2015.04.08-19.58.23:823][853]LogSavePackage: Save=116.955299ms
+[2015.04.08-19.58.23:824][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ODST_Auto27F4AE34144EFE556C730A488F6EC782B.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/ODST_Auto2.uasset'
+[2015.04.08-19.58.23:871][853]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ODSTCharacter/ODST_Skeleton] ([1] browsable assets)...
+[2015.04.08-19.58.23:871][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODSTCharacter/ODST_Skeleton]
+[2015.04.08-19.58.23:990][853]LogSavePackage: Save=90.215797ms
+[2015.04.08-19.58.23:990][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ODST_Skeleton_Auto28E485D10420CDEF3B8626E8706893BCF.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/ODST_Skeleton_Auto2.uasset'
+[2015.04.08-19.58.24:039][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimStarterPack/Character/HeroTPP] ([1] browsable assets)...
+[2015.04.08-19.58.24:091][853]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/AnimStarterPack/Character/HeroTPP.HeroTPP]
+[2015.04.08-19.58.24:091][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/Character/HeroTPP]
+[2015.04.08-19.58.24:524][853]LogSavePackage: Save=425.668823ms
+[2015.04.08-19.58.24:524][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/HeroTPP_Auto2FA4D5ACD456BDB564D9E7088F602838E.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/AnimStarterPack/Character/HeroTPP_Auto2.uasset'
+[2015.04.08-19.58.24:571][853]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimStarterPack/Character/HeroTPP_Skeleton] ([1] browsable assets)...
+[2015.04.08-19.58.24:571][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/Character/HeroTPP_Skeleton]
+[2015.04.08-19.58.24:710][853]LogSavePackage: Save=106.381187ms
+[2015.04.08-19.58.24:711][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/HeroTPP_Skeleton_Auto29A21CA7F446E687AC0BFF489002C1B5F.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/AnimStarterPack/Character/HeroTPP_Skeleton_Auto2.uasset'
+[2015.04.08-19.58.24:817][853]LogSavePackage: Save=88.680542ms
+[2015.04.08-19.58.24:817][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Bwd_Rifle_Copy_Auto247FAC820455C4D5B4EF77BA0AB8ACDFD.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Jog_Bwd_Rifle_Copy_Auto2.uasset'
+[2015.04.08-19.58.24:914][853]LogSavePackage: Save=86.089851ms
+[2015.04.08-19.58.24:914][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Lt_Rifle_Copy_Auto2913AADFF48FF8FD2416672BB57350855.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Jog_Lt_Rifle_Copy_Auto2.uasset'
+[2015.04.08-19.58.25:039][853]LogSavePackage: Save=114.133781ms
+[2015.04.08-19.58.25:040][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Fwd_Rifle_Copy_Auto299DFAE95422801FF80083EB3B46A7CFD.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Jog_Fwd_Rifle_Copy_Auto2.uasset'
+[2015.04.08-19.58.25:151][853]LogSavePackage: Save=96.211113ms
+[2015.04.08-19.58.25:152][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Rt_Rifle_Copy_Auto2F927E57C4105994595930ABC13749C00.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Jog_Rt_Rifle_Copy_Auto2.uasset'
+[2015.04.08-19.58.25:276][853]LogSavePackage: Save=110.829590ms
+[2015.04.08-19.58.25:276][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jump_From_Stand_Copy_Auto2054FBB0744728A75F564B5A4BECEDDD0.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Jump_From_Stand_Copy_Auto2.uasset'
+[2015.04.08-19.58.25:369][853]LogSavePackage: Save=80.008842ms
+[2015.04.08-19.58.25:370][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jump_From_Jog_Copy_Auto21CF63316441B85ADDAC85790CD0FED2D.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Jump_From_Jog_Copy_Auto2.uasset'
+[2015.04.08-19.58.25:453][853]LogSavePackage: Save=75.284920ms
+[2015.04.08-19.58.25:453][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Rifle_Hip_Copy_Auto2D227FF4249B72C0CB6C2FFBA31D32605.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Idle_Rifle_Hip_Copy_Auto2.uasset'
+[2015.04.08-19.58.25:569][853]LogSavePackage: Save=108.423279ms
+[2015.04.08-19.58.25:570][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Idle_Rifle_Hip_Copy_Auto2CE2FF7AE4349CFBAE8979299E9E14BB2.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Crouch_Idle_Rifle_Hip_Copy_Auto2.uasset'
+[2015.04.08-19.58.25:667][853]LogSavePackage: Save=82.218689ms
+[2015.04.08-19.58.25:667][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Bwd_Rifle_Hip_Copy_Auto2AF0167FC4D495A0965C62585EA453A92.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Crouch_Walk_Bwd_Rifle_Hip_Copy_Auto2.uasset'
+[2015.04.08-19.58.25:753][853]LogSavePackage: Save=78.426102ms
+[2015.04.08-19.58.25:754][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Lt_Rifle_Hip_Copy_Auto28EF5CAA643CF76DF066731A4B03C3A24.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Crouch_Walk_Lt_Rifle_Hip_Copy_Auto2.uasset'
+[2015.04.08-19.58.25:851][853]LogSavePackage: Save=88.908226ms
+[2015.04.08-19.58.25:852][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Fwd_Rifle_Hip_Copy_Auto25FE8059B4BC3F1DA5FF305A86CD1F93A.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Crouch_Walk_Fwd_Rifle_Hip_Copy_Auto2.uasset'
+[2015.04.08-19.58.25:953][853]LogSavePackage: Save=91.618347ms
+[2015.04.08-19.58.25:954][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Rt_Rifle_Hip_Copy_Auto2310F8DF847841A27F0538E91F26CED24.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Crouch_Walk_Rt_Rifle_Hip_Copy_Auto2.uasset'
+[2015.04.08-19.58.26:033][853]LogSavePackage: Save=71.837692ms
+[2015.04.08-19.58.26:034][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/R_Jog_Copy_Auto25DA8B7954F7CC5644647B7A7F513597B.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/R_Jog_Copy_Auto2.uasset'
+[2015.04.08-19.58.26:117][853]LogSavePackage: Save=75.221291ms
+[2015.04.08-19.58.26:117][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/R_CrouchWalk_Copy_Auto2DE2DA37F4115D655A7BF33ADF7526745.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/R_CrouchWalk_Copy_Auto2.uasset'
+[2015.04.08-19.58.26:163][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ODSTCharacter/ASP_HeroTPP_AnimBlueprint_Copy] ([1] browsable assets)...
+[2015.04.08-19.58.26:207][853]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ODSTCharacter/ASP_HeroTPP_AnimBlueprint_Copy.ASP_HeroTPP_AnimBlueprint_Copy]
+[2015.04.08-19.58.26:207][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODSTCharacter/ASP_HeroTPP_AnimBlueprint_Copy]
+[2015.04.08-19.58.26:738][853]LogSavePackage: Save=527.938660ms
+[2015.04.08-19.58.26:739][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ASP_HeroTPP_AnimBlueprint_Copy_Auto20E8CCF10463F7D9294BEE3B51053CB51.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/ASP_HeroTPP_AnimBlueprint_Copy_Auto2.uasset'
+[2015.04.08-19.58.26:829][853]LogSavePackage: Save=80.730934ms
+[2015.04.08-19.58.26:829][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Aim_Space_Hip_Copy_Auto23F6BFAB944AD518650885FBDA6241544.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Aim_Space_Hip_Copy_Auto2.uasset'
+[2015.04.08-19.58.26:912][853]LogSavePackage: Save=72.506073ms
+[2015.04.08-19.58.26:913][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Aim_Space_Ironsights_Copy_Auto22BC532E146DACC0DD6D6F8A25A163C43.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Aim_Space_Ironsights_Copy_Auto2.uasset'
+[2015.04.08-19.58.27:013][853]LogSavePackage: Save=90.115715ms
+[2015.04.08-19.58.27:013][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Idle_Rifle_Hip_Copy2_Auto2538CED224F3C0D00F5452A965D606AE9.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Crouch_Idle_Rifle_Hip_Copy2_Auto2.uasset'
+[2015.04.08-19.58.27:096][853]LogSavePackage: Save=69.286324ms
+[2015.04.08-19.58.27:097][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Idle_Rifle_Ironsights_Copy_Auto20E96F4014217C07E35B298A23C960205.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Crouch_Idle_Rifle_Ironsights_Copy_Auto2.uasset'
+[2015.04.08-19.58.27:178][853]LogSavePackage: Save=74.189178ms
+[2015.04.08-19.58.27:179][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_to_Stand_Rifle_Hip_Copy_Auto2ECE312584CB3F20DFB74B592CD9DB544.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Crouch_to_Stand_Rifle_Hip_Copy_Auto2.uasset'
+[2015.04.08-19.58.27:305][853]LogSavePackage: Save=117.250519ms
+[2015.04.08-19.58.27:306][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_to_Stand_Rifle_Ironsights_Copy_Auto2CC7179D6488F4F37F05EDD94B8514879.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Crouch_to_Stand_Rifle_Ironsights_Copy_Auto2.uasset'
+[2015.04.08-19.58.27:452][853]LogSavePackage: Save=123.813644ms
+[2015.04.08-19.58.27:452][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Bwd_Rifle_Hip_Copy2_Auto21818DE3F41924627ED4132B7D7E9F29D.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Crouch_Walk_Bwd_Rifle_Hip_Copy2_Auto2.uasset'
+[2015.04.08-19.58.27:546][853]LogSavePackage: Save=84.936424ms
+[2015.04.08-19.58.27:547][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Bwd_Rifle_Ironsights_Copy_Auto2C36C85464FB28629246FBA942FE069EB.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Crouch_Walk_Bwd_Rifle_Ironsights_Copy_Auto2.uasset'
+[2015.04.08-19.58.27:629][853]LogSavePackage: Save=74.121086ms
+[2015.04.08-19.58.27:629][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Fwd_Rifle_Hip_Copy2_Auto28666C2A94A43FEAF2AD764B4C48F941F.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Crouch_Walk_Fwd_Rifle_Hip_Copy2_Auto2.uasset'
+[2015.04.08-19.58.27:736][853]LogSavePackage: Save=98.875908ms
+[2015.04.08-19.58.27:736][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Fwd_Rifle_Ironsights_Copy_Auto2836223BB4FBA1356123693B6DBBF7D0D.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Crouch_Walk_Fwd_Rifle_Ironsights_Copy_Auto2.uasset'
+[2015.04.08-19.58.27:829][853]LogSavePackage: Save=81.104652ms
+[2015.04.08-19.58.27:829][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Lt_Rifle_Hip_Copy2_Auto2974FDA264FFDD16F23786EB44574A746.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Crouch_Walk_Lt_Rifle_Hip_Copy2_Auto2.uasset'
+[2015.04.08-19.58.27:931][853]LogSavePackage: Save=94.033043ms
+[2015.04.08-19.58.27:932][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Lt_Rifle_Ironsights_Copy_Auto25F370F094B693687B2574A95FEA4EA86.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Crouch_Walk_Lt_Rifle_Ironsights_Copy_Auto2.uasset'
+[2015.04.08-19.58.28:029][853]LogSavePackage: Save=82.603165ms
+[2015.04.08-19.58.28:029][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Rt_Rifle_Hip_Copy2_Auto20AD6D8B145E6AB7E1475868066B5EC1F.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Crouch_Walk_Rt_Rifle_Hip_Copy2_Auto2.uasset'
+[2015.04.08-19.58.28:113][853]LogSavePackage: Save=76.523346ms
+[2015.04.08-19.58.28:113][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Crouch_Walk_Rt_Rifle_Ironsights_Copy_Auto2A680C2DD40D78A56D24D9287CC7E13A8.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Crouch_Walk_Rt_Rifle_Ironsights_Copy_Auto2.uasset'
+[2015.04.08-19.58.28:211][853]LogSavePackage: Save=86.651588ms
+[2015.04.08-19.58.28:212][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Death_1_Copy_Auto22213DB7E4025558F997C1D8FFBB20BF1.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Death_1_Copy_Auto2.uasset'
+[2015.04.08-19.58.28:296][853]LogSavePackage: Save=75.065964ms
+[2015.04.08-19.58.28:297][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Death_2_Copy_Auto295909D724CFB51FF9C6598B7740E9377.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Death_2_Copy_Auto2.uasset'
+[2015.04.08-19.58.28:380][853]LogSavePackage: Save=74.957504ms
+[2015.04.08-19.58.28:381][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Death_3_Copy_Auto211DC07A046F8B6EB503DA58B3812657B.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Death_3_Copy_Auto2.uasset'
+[2015.04.08-19.58.28:498][853]LogSavePackage: Save=111.278107ms
+[2015.04.08-19.58.28:499][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Death_Ironsights_1_Copy_Auto2A76E9ADF4A74C8B17152AF846A8BB2FD.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Death_Ironsights_1_Copy_Auto2.uasset'
+[2015.04.08-19.58.28:595][853]LogSavePackage: Save=79.806374ms
+[2015.04.08-19.58.28:596][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Death_Ironsights_2_Copy_Auto27C0DF6B54C5995B5584F078E0225C04E.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Death_Ironsights_2_Copy_Auto2.uasset'
+[2015.04.08-19.58.28:678][853]LogSavePackage: Save=75.038170ms
+[2015.04.08-19.58.28:679][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Equip_Pistol_Standing_Copy_Auto237CFC6484A8940BD7284EAACC7313CF0.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Equip_Pistol_Standing_Copy_Auto2.uasset'
+[2015.04.08-19.58.28:763][853]LogSavePackage: Save=76.411179ms
+[2015.04.08-19.58.28:764][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Equip_Rifle_Standing_Copy_Auto22C92F89A4821653E7D57C7BF288E57A1.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Equip_Rifle_Standing_Copy_Auto2.uasset'
+[2015.04.08-19.58.28:849][853]LogSavePackage: Save=77.129005ms
+[2015.04.08-19.58.28:849][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Fire_Rifle_Hip_Copy_Auto2A892F4F240E698E68369FD8D0E6CDF9F.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Fire_Rifle_Hip_Copy_Auto2.uasset'
+[2015.04.08-19.58.28:930][853]LogSavePackage: Save=71.946228ms
+[2015.04.08-19.58.28:930][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Fire_Rifle_Ironsights_Copy_Auto2973C5AB148275AB04722CEBB49CF23B8.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Fire_Rifle_Ironsights_Copy_Auto2.uasset'
+[2015.04.08-19.58.29:032][853]LogSavePackage: Save=93.954750ms
+[2015.04.08-19.58.29:032][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Fire_Shotgun_Hip_Copy_Auto2EF63F0D643B484010DBDC79A8E13E928.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Fire_Shotgun_Hip_Copy_Auto2.uasset'
+[2015.04.08-19.58.29:113][853]LogSavePackage: Save=72.916809ms
+[2015.04.08-19.58.29:114][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Fire_Shotgun_Ironsights_Copy_Auto2F46AF16047E566337EF470B726C16362.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Fire_Shotgun_Ironsights_Copy_Auto2.uasset'
+[2015.04.08-19.58.29:197][853]LogSavePackage: Save=75.332336ms
+[2015.04.08-19.58.29:197][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Hit_React_1_Copy_Auto299DB578048BCE4E595172FA19CFD9EA3.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Hit_React_1_Copy_Auto2.uasset'
+[2015.04.08-19.58.29:298][853]LogSavePackage: Save=90.675278ms
+[2015.04.08-19.58.29:298][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Hit_React_2_Copy_Auto25F841C3E479372522F7BFD8804E6487F.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Hit_React_2_Copy_Auto2.uasset'
+[2015.04.08-19.58.29:382][853]LogSavePackage: Save=73.899963ms
+[2015.04.08-19.58.29:382][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Hit_React_3_Copy_Auto2AB580FF747C6E86743C19F82F5B03142.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Hit_React_3_Copy_Auto2.uasset'
+[2015.04.08-19.58.29:462][853]LogSavePackage: Save=70.843361ms
+[2015.04.08-19.58.29:463][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Hit_React_4_Copy_Auto26000FDD148D81879105F76B1458F9546.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Hit_React_4_Copy_Auto2.uasset'
+[2015.04.08-19.58.29:585][853]LogSavePackage: Save=113.587761ms
+[2015.04.08-19.58.29:586][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Pistol_Copy_Auto2BA3A7DBB4327C123162A7197E14974B9.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Idle_Pistol_Copy_Auto2.uasset'
+[2015.04.08-19.58.29:680][853]LogSavePackage: Save=83.924423ms
+[2015.04.08-19.58.29:680][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Rifle_Hip_Copy2_Auto23A711D9F49CEE17CC98A6EB5B60F86DB.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Idle_Rifle_Hip_Copy2_Auto2.uasset'
+[2015.04.08-19.58.29:781][853]LogSavePackage: Save=92.067703ms
+[2015.04.08-19.58.29:782][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Rifle_Hip_Break1_Copy_Auto225503B3541C0384112E3F89674AEFFD2.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Idle_Rifle_Hip_Break1_Copy_Auto2.uasset'
+[2015.04.08-19.58.29:864][853]LogSavePackage: Save=70.896507ms
+[2015.04.08-19.58.29:864][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Rifle_Hip_Break2_Copy_Auto25AF5A506455F0CA6B2103FBEE0086E5B.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Idle_Rifle_Hip_Break2_Copy_Auto2.uasset'
+[2015.04.08-19.58.29:946][853]LogSavePackage: Save=74.343178ms
+[2015.04.08-19.58.29:947][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Idle_Rifle_Ironsights_Copy_Auto2F2A8F9E34BC245EDDCDE98AB36637815.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Idle_Rifle_Ironsights_Copy_Auto2.uasset'
+[2015.04.08-19.58.30:046][853]LogSavePackage: Save=89.162590ms
+[2015.04.08-19.58.30:047][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Bwd_Rifle_Copy2_Auto25E8BEF8B4A15DE0CB9F0918FA7FE53FE.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Jog_Bwd_Rifle_Copy2_Auto2.uasset'
+[2015.04.08-19.58.30:131][853]LogSavePackage: Save=73.522057ms
+[2015.04.08-19.58.30:131][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Fwd_Rifle_Copy2_Auto2DBBD170742B7D52EDB2DA8BF9268BE6F.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Jog_Fwd_Rifle_Copy2_Auto2.uasset'
+[2015.04.08-19.58.30:214][853]LogSavePackage: Save=72.933784ms
+[2015.04.08-19.58.30:214][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Lt_Rifle_Copy2_Auto2AE3DCDCD49EA308B4261E2B4383B7995.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Jog_Lt_Rifle_Copy2_Auto2.uasset'
+[2015.04.08-19.58.30:317][853]LogSavePackage: Save=93.671196ms
+[2015.04.08-19.58.30:317][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jog_Rt_Rifle_Copy2_Auto22C85CDD8492A9B8E419460B8E7782AB9.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Jog_Rt_Rifle_Copy2_Auto2.uasset'
+[2015.04.08-19.58.30:441][853]LogSavePackage: Save=111.541344ms
+[2015.04.08-19.58.30:442][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jump_From_Jog_Copy2_Auto29B9B75264674ED11C1A647A63F729799.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Jump_From_Jog_Copy2_Auto2.uasset'
+[2015.04.08-19.58.30:547][853]LogSavePackage: Save=86.674355ms
+[2015.04.08-19.58.30:547][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jump_From_Stand_Copy2_Auto2BA7D0FC2477ECE87AFC7E492A43A2013.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Jump_From_Stand_Copy2_Auto2.uasset'
+[2015.04.08-19.58.30:630][853]LogSavePackage: Save=74.507935ms
+[2015.04.08-19.58.30:630][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Jump_From_Stand_Ironsights_Copy_Auto21D4AD9D24DEB2794AED1219F5D2AAF83.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Jump_From_Stand_Ironsights_Copy_Auto2.uasset'
+[2015.04.08-19.58.30:746][853]LogSavePackage: Save=109.032150ms
+[2015.04.08-19.58.30:747][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Death_1_Copy_Auto2B3BA00484CB8B6F33177DE8668EA299A.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Prone_Death_1_Copy_Auto2.uasset'
+[2015.04.08-19.58.30:905][853]LogSavePackage: Save=142.879684ms
+[2015.04.08-19.58.30:905][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Death_2_Copy_Auto262FD60D14B785DCF9CEBD39BBFC32EDF.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Prone_Death_2_Copy_Auto2.uasset'
+[2015.04.08-19.58.30:996][853]LogSavePackage: Save=79.338997ms
+[2015.04.08-19.58.30:997][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Fire_1_Copy_Auto26232C6D34C1B6F152914B1942E064695.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Prone_Fire_1_Copy_Auto2.uasset'
+[2015.04.08-19.58.31:081][853]LogSavePackage: Save=73.961426ms
+[2015.04.08-19.58.31:081][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Fire_2_Copy_Auto29C82163D4E2D8175B77E098980C12722.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Prone_Fire_2_Copy_Auto2.uasset'
+[2015.04.08-19.58.31:187][853]LogSavePackage: Save=97.499191ms
+[2015.04.08-19.58.31:188][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Idle_Copy_Auto2B50201C7401B2EF6146B12A3862356E0.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Prone_Idle_Copy_Auto2.uasset'
+[2015.04.08-19.58.31:313][853]LogSavePackage: Save=108.762566ms
+[2015.04.08-19.58.31:314][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Reload_Rifle_Copy_Auto2BC44812E4F71782910EED3A1EA78F727.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Prone_Reload_Rifle_Copy_Auto2.uasset'
+[2015.04.08-19.58.31:444][853]LogSavePackage: Save=115.352997ms
+[2015.04.08-19.58.31:444][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_Reload_Shotgun_Copy_Auto27028F1684B80D0861E7527848F9A0CEE.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Prone_Reload_Shotgun_Copy_Auto2.uasset'
+[2015.04.08-19.58.31:531][853]LogSavePackage: Save=78.726349ms
+[2015.04.08-19.58.31:531][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Prone_To_Stand_Copy_Auto253561E144D10DE98AA9C9E8A618A6F0E.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Prone_To_Stand_Copy_Auto2.uasset'
+[2015.04.08-19.58.31:631][853]LogSavePackage: Save=90.340111ms
+[2015.04.08-19.58.31:632][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Pistol_Copy_Auto25E805ACC4ECF4C2E0B4137A614FACDD9.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Reload_Pistol_Copy_Auto2.uasset'
+[2015.04.08-19.58.31:762][853]LogSavePackage: Save=116.938393ms
+[2015.04.08-19.58.31:762][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Rifle_Hip_Copy_Auto276AB971C4638F931B1223C9CC99C7D27.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Reload_Rifle_Hip_Copy_Auto2.uasset'
+[2015.04.08-19.58.31:850][853]LogSavePackage: Save=74.575607ms
+[2015.04.08-19.58.31:850][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Rifle_Ironsights_Copy_Auto2F14E503C4B962350F9C9B2AAF9CF100A.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Reload_Rifle_Ironsights_Copy_Auto2.uasset'
+[2015.04.08-19.58.31:933][853]LogSavePackage: Save=73.407516ms
+[2015.04.08-19.58.31:933][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Shotgun_Hip_Copy_Auto2381BDE274EE3636F2C5CAF8F8F2A1052.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Reload_Shotgun_Hip_Copy_Auto2.uasset'
+[2015.04.08-19.58.32:014][853]LogSavePackage: Save=72.595047ms
+[2015.04.08-19.58.32:014][853]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Reload_Shotgun_Ironsights_Copy_Auto2F58A3D56462518314D1ECB934682752F.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/Autosaves/Game/ODSTCharacter/Reload_Shotgun_Ironsights_Copy_Auto2.uasset'
+[2015.04.08-19.58.32:121][853]LogSavePa
