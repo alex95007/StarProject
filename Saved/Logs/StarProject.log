@@ -476,4 +476,31 @@ Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en
 [2015.04.08-19.37.31:838][470]LogMaterial: 0.000177 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
 [2015.04.08-19.37.31:838][470]LogMaterial:Warning: Material /Game/ODSTCharacter/_2___Defaultmat._2___Defaultmat needed to have new flag set bUsedWithSkeletalMesh !
 [2015.04.08-19.37.31:841][470]LogMaterial: Missing cached shader map for material _2___Defaultmat, compiling. 
-[2015.04.08-19.37.31:856][470]LogMaterial: 0.000061 seconds spent updating 1 materials, 1 interfaces, 0 i
+[2015.04.08-19.37.31:856][470]LogMaterial: 0.000061 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.04.08-19.37.31:856][470]LogMaterial:Warning: Material /Game/ODSTCharacter/Material__25mat.Material__25mat needed to have new flag set bUsedWithSkeletalMesh !
+[2015.04.08-19.37.31:859][470]LogMaterial: Missing cached shader map for material Material__25mat, compiling. 
+[2015.04.08-19.37.31:873][470]LogMaterial: 0.000057 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.04.08-19.37.31:873][470]LogMaterial:Warning: Material /Game/ODSTCharacter/ColorMaterial_57E15700_fxmat.ColorMaterial_57E15700_fxmat needed to have new flag set bUsedWithSkeletalMesh !
+[2015.04.08-19.37.31:876][470]LogMaterial: Missing cached shader map for material ColorMaterial_57E15700_fxmat, compiling. 
+[2015.04.08-19.37.31:891][470]LogMaterial: 0.000053 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.04.08-19.37.31:891][470]LogMaterial:Warning: Material /Game/ODSTCharacter/ColorMaterial_B1581B00_fxmat.ColorMaterial_B1581B00_fxmat needed to have new flag set bUsedWithSkeletalMesh !
+[2015.04.08-19.37.31:893][470]LogMaterial: Missing cached shader map for material ColorMaterial_B1581B00_fxmat, compiling. 
+[2015.04.08-19.37.31:906][470]LogMaterial: 0.000060 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.04.08-19.37.31:906][470]LogMaterial:Warning: Material /Game/ODSTCharacter/_1___Defaultmat._1___Defaultmat needed to have new flag set bUsedWithSkeletalMesh !
+[2015.04.08-19.37.31:908][470]LogMaterial: Missing cached shader map for material _1___Defaultmat, compiling. 
+[2015.04.08-19.37.31:919][470]LogMaterial: 0.000056 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.04.08-19.38.16:059][506]LogSavePackage: Save=1614.161133ms
+[2015.04.08-19.38.16:059][506]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/FirstPersonExampleMap0BF2D6E44B9BC6EA8816EC98B94C8944.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2015.04.08-19.39.43:913][928]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Materials'
+[2015.04.08-19.39.44:776][999]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/ODSTCharacter'
+[2015.04.08-19.42.11:941][804]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/FXStarStarterKit/Particles'
+[2015.04.08-19.43.05:245][ 30]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/ODSTCharacter'
+[2015.04.08-19.43.07:284][214]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2015.04.08-19.43.07:302][214]LogLinker:Warning: Asset '../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorTutorial.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2015.04.08-19.43.07:351][215]LogRenderer:Warning: Reallocating scene render targets to support 1208x920 (Frame:10027).
+[2015.04.08-19.43.09:247][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODSTCharacter/ODST" FILE="../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset" SILENT=true
+[2015.04.08-19.43.09:516][412]LogSavePackage: Save=267.509125ms
+[2015.04.08-19.43.09:516][412]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/StarProject/Saved/ODST5CF9ECC642BD3A03C59AFEAF901A77F2.tmp' to '../../../../../../Users/admin/Documents/GitHub/StarProject/Content/ODSTCharacter/ODST.uasset'
+[2015.04.08-19.43.35:596][221]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/FXStarStarterKit'
+[2015.04.08-19.43.36:611][342]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Character'
+[2015.04.08-19.43.37:061][396]LogCont
